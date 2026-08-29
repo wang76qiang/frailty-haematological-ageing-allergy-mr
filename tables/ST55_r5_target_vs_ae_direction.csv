@@ -1,0 +1,30 @@
+gene,MR_OR,MR_p,MR_significant,MR_direction,FAERS_signal,FAERS_max_ROR,FAERS_drugs,CV_max_ROR,CV_concordant_drugs,direction_verdict
+BCL2,0.9130337238912126,0.7064114649417548,False,protective,True,2.6494684129429893,quercetin,26.672997412228398,quercetin,MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding | CV concordant: quercetin
+BCR-ABL,,,False,,False,0.8854909444632214,dasatinib,1.1098856066111038,,MR null: no directional AE expectation
+CDKN1A,1.0089503879722377,0.899604963180958,False,risk-enhancing,False,,,,,MR null: no directional AE expectation
+CDKN2A,0.9506275982714152,0.7530023649522026,False,protective,False,,,,,MR null: no directional AE expectation
+CTLA4,,,False,,True,3.530293155328422,abatacept,2.373683700257228,abatacept,MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding | CV concordant: abatacept
+DHFR,,,False,,True,2.059558042642763,methotrexate,3.4199582760478706,methotrexate,MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding | CV concordant: methotrexate
+GATA3,0.5225341733156397,0.0084495188665798,True,protective,False,,,,,MR predicts target activation lowers allergy risk; inhibitor may INCREASE allergy AE reporting
+IFNG,1.027818851019585,0.8522069643137928,False,risk-enhancing,False,,,,,MR null: no directional AE expectation
+IL1B,1.2555402939129297,0.240113680450916,False,risk-enhancing,False,0.6936666021265954,canakinumab,5.8102475954550625,,MR null: no directional AE expectation
+IL1R1,0.9401537258380664,0.5480626384004903,False,protective,True,1.576497408541676,anakinra,7.476470956982141,,MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding
+IL4,0.5833726764248982,1.3300430534712861e-08,True,protective,False,,,,,MR predicts target activation lowers allergy risk; inhibitor may INCREASE allergy AE reporting
+IL6,1.3996949790340494,0.0438453763397472,True,risk-enhancing,False,,,,,MR predicts target activation increases allergy risk; expect inhibitor to LOWER allergy AE reporting
+IL6R,0.8278906334199958,0.1485721490591847,False,protective,True,8.331718307129533,"sarilumab, tocilizumab",28.788184465212343,sarilumab; tocilizumab,"MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding | CV concordant: sarilumab, tocilizumab"
+IL7R,1.028611005454926,0.5357708814898983,False,risk-enhancing,False,,,,,MR null: no directional AE expectation
+JAK1,0.8568788594539481,0.4513733791625631,False,protective,True,10.275339151238343,"baricitinib, ruxolitinib, tofacitinib, upadacitinib",192.6299640498286,tofacitinib,MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding | CV concordant: tofacitinib
+JAK2,,,False,,False,0.4789460470418956,"baricitinib, ruxolitinib",4.344791625414175,,MR null: no directional AE expectation
+JAK3,0.8985863930971623,0.6355724254658544,False,protective,True,10.275339151238343,tofacitinib,18.477604542071326,tofacitinib,MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding | CV concordant: tofacitinib
+MTOR,0.9868793489872888,0.8199914473452496,False,protective,False,0.4399274195501101,"everolimus, sirolimus",5.999209176682457,,MR null: no directional AE expectation
+NLRP3,1.058753824824234,0.2294035583744755,False,risk-enhancing,False,,,,,MR null: no directional AE expectation
+PI3K,,,False,,True,2.6494684129429893,quercetin,26.672997412228398,quercetin,MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding | CV concordant: quercetin
+PPP3CA,,,False,,False,0.93374567173803,cyclosporine,1.6459380636850862,,MR null: no directional AE expectation
+PPP3R1,,,False,,False,0.93374567173803,cyclosporine,1.6459380636850862,,MR null: no directional AE expectation
+RORC,0.6604790093983314,0.007004115449084,True,protective,False,,,,,MR predicts target activation lowers allergy risk; inhibitor may INCREASE allergy AE reporting
+SRC,1.2109291503628594,0.2398008882434572,False,risk-enhancing,False,0.8854909444632214,dasatinib,1.1098856066111038,,MR null: no directional AE expectation
+STAT5A,1.2206135931593989,0.0375905647982774,True,risk-enhancing,False,,,,,MR predicts target activation increases allergy risk; expect inhibitor to LOWER allergy AE reporting
+STAT5B,1.0356176488907491,0.8179227175900448,False,risk-enhancing,False,,,,,MR null: no directional AE expectation
+TNF,0.981189296534815,0.6541829197537594,False,protective,True,12.910329337662656,"adalimumab, certolizumab, etanercept, golimumab, infliximab",37.75104699660663,adalimumab; certolizumab; etanercept; golimumab; infliximab,"MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding | CV concordant: adalimumab, certolizumab, etanercept, golimumab, infliximab"
+TP53,1.0687433526792591,0.6811845529792437,False,risk-enhancing,False,,,,,MR null: no directional AE expectation
+TPMT,,,False,,True,2.442652264878093,azathioprine,3.376844491165771,azathioprine,MR null: no directional AE expectation | FAERS elevated (ROR>2) - likely indication/channeling confounding | CV concordant: azathioprine

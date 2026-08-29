@@ -1,0 +1,5 @@
+analysis,n_age,n_allergy,n_background,overlap,expected_overlap,perm_p,perm_n,fisher_p,fisher_or,type2_cpgs_in_overlap,type2_bg_cpgs,type2_genes_hit
+all_tissues,301823.0,13924.0,724456,4716,5801.02,1.0,1000,8.263804790235691e-81,0.7126763330403711,,,
+all_tissues | type2 enrichment,,,724456,4716,,,0,1.978249637410501e-05,5.641451675885224,10.0,281.0,GATA3;IL1RL1;IL4;IL5RA;RORC;TSLP
+blood_stratified,301684.0,434.0,713949,241,183.39,0.000999000999000999,1000,3.313773986304761e-08,1.7069768678631603,,,
+blood_stratified | type2 enrichment,,,713949,241,,,0,5.203826584861716e-08,55.36684360836903,5.0,278.0,IL1RL1;IL4;IL5RA

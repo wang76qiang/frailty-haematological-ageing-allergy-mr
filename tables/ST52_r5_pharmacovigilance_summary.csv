@@ -1,0 +1,88 @@
+source,drug,target,r5_09_axis,ae_domain,n_drug_reports,n_domain_reports,n_overlap_reports,db_total_reports,ror,ror_lower,ror_upper,signal_ror_gt2,note
+FAERS,dupilumab,IL4RA,"IL4/IL13 axis (R5-09 positive control: IL4, IL13)",ageing_general,515,7,0,385288,49.7597,2.8381,872.4198,False,
+FAERS,dupilumab,IL4RA,"IL4/IL13 axis (R5-09 positive control: IL4, IL13)",immunosenescence,515,1323,3,385288,1.9831,0.6921,5.6819,False,
+FAERS,dupilumab,IL4RA,"IL4/IL13 axis (R5-09 positive control: IL4, IL13)",infection,515,32796,93,385288,2.3824,1.9038,2.9815,True,
+FAERS,dupilumab,IL4RA,"IL4/IL13 axis (R5-09 positive control: IL4, IL13)",malignancy,515,16566,30,385288,1.3989,0.97,2.0176,False,
+FAERS,mepolizumab,IL5,IL5 axis (R5-09 positive control: IL5),ageing_general,471,7,0,385288,54.4094,3.1029,954.0582,False,
+FAERS,mepolizumab,IL5,IL5 axis (R5-09 positive control: IL5),immunosenescence,471,1323,2,385288,1.5452,0.4453,5.3616,False,
+FAERS,mepolizumab,IL5,IL5 axis (R5-09 positive control: IL5),infection,471,32796,144,385288,4.7587,3.9114,5.7895,True,
+FAERS,mepolizumab,IL5,IL5 axis (R5-09 positive control: IL5),malignancy,471,16566,42,385288,2.2054,1.6086,3.0237,True,
+FAERS,reslizumab,IL5,IL5 axis (R5-09 positive control: IL5),ageing_general,1,7,0,385288,17123.5778,644.518,454939.824,False,
+FAERS,reslizumab,IL5,IL5 axis (R5-09 positive control: IL5),immunosenescence,1,1323,0,385288,96.7043,3.9375,2375.0639,False,
+FAERS,reslizumab,IL5,IL5 axis (R5-09 positive control: IL5),infection,1,32796,0,385288,3.5826,0.1459,87.9509,False,
+FAERS,reslizumab,IL5,IL5 axis (R5-09 positive control: IL5),malignancy,1,16566,0,385288,7.419,0.3022,182.1356,False,
+FAERS,benralizumab,IL5RA,IL5 axis (R5-09 positive control: IL5),ageing_general,391,7,0,385288,65.5412,3.7367,1149.5855,False,
+FAERS,benralizumab,IL5RA,IL5 axis (R5-09 positive control: IL5),immunosenescence,391,1323,2,385288,1.863,0.5366,6.4686,False,
+FAERS,benralizumab,IL5RA,IL5 axis (R5-09 positive control: IL5),infection,391,32796,78,385288,2.6953,2.1041,3.4526,True,
+FAERS,benralizumab,IL5RA,IL5 axis (R5-09 positive control: IL5),malignancy,391,16566,20,385288,1.2284,0.7873,1.9169,False,
+FAERS,omalizumab,IGHE,IgE (background; not in INTERVAL pQTL panel),ageing_general,631,7,0,385288,40.6071,2.3166,711.7805,False,
+FAERS,omalizumab,IGHE,IgE (background; not in INTERVAL pQTL panel),immunosenescence,631,1323,6,385288,3.0236,1.3935,6.5606,True,
+FAERS,omalizumab,IGHE,IgE (background; not in INTERVAL pQTL panel),infection,631,32796,343,385288,12.9215,11.0448,15.1172,True,
+FAERS,omalizumab,IGHE,IgE (background; not in INTERVAL pQTL panel),malignancy,631,16566,29,385288,1.0899,0.7529,1.5778,False,
+FAERS,tezepelumab,TSLP,TSLP axis (R5-09 positive control: TSLP),ageing_general,287,7,0,385288,89.2741,5.0866,1566.8289,False,
+FAERS,tezepelumab,TSLP,TSLP axis (R5-09 positive control: TSLP),immunosenescence,287,1323,1,385288,1.5189,0.305,7.5643,False,
+FAERS,tezepelumab,TSLP,TSLP axis (R5-09 positive control: TSLP),infection,287,32796,70,385288,3.4891,2.6666,4.5653,True,
+FAERS,tezepelumab,TSLP,TSLP axis (R5-09 positive control: TSLP),malignancy,287,16566,15,385288,1.2662,0.7588,2.1129,False,
+FAERS,lebrikizumab,IL13,IL13 axis (R5-09 positive control: IL13),ageing_general,41,7,0,385288,618.8602,34.7782,11012.285,False,
+FAERS,lebrikizumab,IL13,IL13 axis (R5-09 positive control: IL13),immunosenescence,41,1323,0,385288,3.495,0.2149,56.8465,False,
+FAERS,lebrikizumab,IL13,IL13 axis (R5-09 positive control: IL13),infection,41,32796,2,385288,0.6802,0.1894,2.4423,False,
+FAERS,lebrikizumab,IL13,IL13 axis (R5-09 positive control: IL13),malignancy,41,16566,2,385288,1.4087,0.3923,5.0582,False,
+FAERS,tralokinumab,IL13,IL13 axis (R5-09 positive control: IL13),ageing_general,6,7,0,385288,3951.5436,203.908,76577.1738,False,
+FAERS,tralokinumab,IL13,IL13 axis (R5-09 positive control: IL13),immunosenescence,6,1323,0,385288,22.3161,1.2565,396.354,False,
+FAERS,tralokinumab,IL13,IL13 axis (R5-09 positive control: IL13),infection,6,32796,1,385288,2.9313,0.4819,17.8302,False,
+FAERS,tralokinumab,IL13,IL13 axis (R5-09 positive control: IL13),malignancy,6,16566,0,385288,1.7121,0.0964,30.3936,False,
+CanadaVigilance,dupilumab,IL4RA,"IL4/IL13 axis (R5-09 positive control: IL4, IL13)",ageing_general,503,12,0,1154017,91.6387,5.4181,1549.916,False,
+CanadaVigilance,dupilumab,IL4RA,"IL4/IL13 axis (R5-09 positive control: IL4, IL13)",immunosenescence,503,3095,3,1154017,2.6014,0.9086,7.4482,False,
+CanadaVigilance,dupilumab,IL4RA,"IL4/IL13 axis (R5-09 positive control: IL4, IL13)",infection,503,126059,71,1154017,1.3483,1.0497,1.7317,False,
+CanadaVigilance,dupilumab,IL4RA,"IL4/IL13 axis (R5-09 positive control: IL4, IL13)",malignancy,503,48588,29,1154017,1.4147,0.9752,2.0522,False,
+CanadaVigilance,mepolizumab,IL5,IL5 axis (R5-09 positive control: IL5),ageing_general,9248,12,0,1154017,4.9511,0.2931,83.6329,False,
+CanadaVigilance,mepolizumab,IL5,IL5 axis (R5-09 positive control: IL5),immunosenescence,9248,3095,44,1154017,1.8089,1.3445,2.4336,False,
+CanadaVigilance,mepolizumab,IL5,IL5 axis (R5-09 positive control: IL5),infection,9248,126059,3577,1154017,5.2648,5.0469,5.4921,True,
+CanadaVigilance,mepolizumab,IL5,IL5 axis (R5-09 positive control: IL5),malignancy,9248,48588,396,1154017,1.0191,0.9212,1.1275,False,
+CanadaVigilance,reslizumab,IL5,IL5 axis (R5-09 positive control: IL5),ageing_general,49,12,0,1154017,932.4901,54.457,15967.4185,False,
+CanadaVigilance,reslizumab,IL5,IL5 axis (R5-09 positive control: IL5),immunosenescence,49,3095,0,1154017,3.7554,0.2316,60.9012,False,
+CanadaVigilance,reslizumab,IL5,IL5 axis (R5-09 positive control: IL5),infection,49,126059,11,1154017,2.4359,1.2607,4.7068,True,
+CanadaVigilance,reslizumab,IL5,IL5 axis (R5-09 positive control: IL5),malignancy,49,48588,1,1154017,0.7036,0.1386,3.573,False,
+CanadaVigilance,benralizumab,IL5RA,IL5 axis (R5-09 positive control: IL5),ageing_general,1429,12,0,1154017,32.2512,1.9085,544.9983,False,
+CanadaVigilance,benralizumab,IL5RA,IL5 axis (R5-09 positive control: IL5),immunosenescence,1429,3095,4,1154017,1.1738,0.4649,2.9633,False,
+CanadaVigilance,benralizumab,IL5RA,IL5 axis (R5-09 positive control: IL5),infection,1429,126059,260,1154017,1.8181,1.5894,2.0796,False,
+CanadaVigilance,benralizumab,IL5RA,IL5 axis (R5-09 positive control: IL5),malignancy,1429,48588,68,1154017,1.1448,0.898,1.4596,False,
+CanadaVigilance,omalizumab,IGHE,IgE (background; not in INTERVAL pQTL panel),ageing_general,11592,12,0,1154017,3.9419,0.2334,66.5848,False,
+CanadaVigilance,omalizumab,IGHE,IgE (background; not in INTERVAL pQTL panel),immunosenescence,11592,3095,128,1154017,4.3038,3.6036,5.1401,True,
+CanadaVigilance,omalizumab,IGHE,IgE (background; not in INTERVAL pQTL panel),infection,11592,126059,3535,1154017,3.6525,3.5093,3.8015,True,
+CanadaVigilance,omalizumab,IGHE,IgE (background; not in INTERVAL pQTL panel),malignancy,11592,48588,509,1154017,1.0463,0.957,1.144,False,
+CanadaVigilance,tezepelumab,TSLP,TSLP axis (R5-09 positive control: TSLP),ageing_general,277,12,0,1154017,166.3032,9.8219,2815.8321,False,
+CanadaVigilance,tezepelumab,TSLP,TSLP axis (R5-09 positive control: TSLP),immunosenescence,277,3095,0,1154017,0.6698,0.0418,10.7375,False,
+CanadaVigilance,tezepelumab,TSLP,TSLP axis (R5-09 positive control: TSLP),infection,277,126059,63,1154017,2.4148,1.8249,3.1953,True,
+CanadaVigilance,tezepelumab,TSLP,TSLP axis (R5-09 positive control: TSLP),malignancy,277,48588,17,1154017,1.5285,0.942,2.4804,False,
+CanadaVigilance,lebrikizumab,IL13,IL13 axis (R5-09 positive control: IL13),ageing_general,0,12,0,1154017,92320.44,1761.6647,4838073.702,False,
+CanadaVigilance,lebrikizumab,IL13,IL13 axis (R5-09 positive control: IL13),immunosenescence,0,3095,0,1154017,371.805,7.3758,18742.1138,False,
+CanadaVigilance,lebrikizumab,IL13,IL13 axis (R5-09 positive control: IL13),infection,0,126059,0,1154017,8.1546,0.1618,410.9947,False,
+CanadaVigilance,lebrikizumab,IL13,IL13 axis (R5-09 positive control: IL13),malignancy,0,48588,0,1154017,22.7508,0.4514,1146.6648,False,
+CanadaVigilance,tralokinumab,IL13,IL13 axis (R5-09 positive control: IL13),ageing_general,118,12,0,1154017,389.4979,22.9284,6616.6182,False,
+CanadaVigilance,tralokinumab,IL13,IL13 axis (R5-09 positive control: IL13),immunosenescence,118,3095,1,1154017,4.7475,0.9481,23.7723,False,
+CanadaVigilance,tralokinumab,IL13,IL13 axis (R5-09 positive control: IL13),infection,118,126059,9,1154017,0.7074,0.3646,1.3728,False,
+CanadaVigilance,tralokinumab,IL13,IL13 axis (R5-09 positive control: IL13),malignancy,118,48588,2,1154017,0.4882,0.1395,1.7088,False,
+ClinicalTrials.gov,abatacept,,,,0,0,0,344,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,adalimumab,,,,0,0,0,872,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,anakinra,,,,0,0,0,583,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,azathioprine,,,,0,0,0,473,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,baricitinib,,,,0,0,0,202,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,canakinumab,,,,0,0,0,125,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,certolizumab,,,,0,0,0,201,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,cyclosporine,,,,0,0,0,1000,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,dasatinib,,,,0,0,0,448,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,etanercept,,,,0,0,0,569,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,everolimus,,,,0,0,0,1000,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,fisetin,,,,0,0,0,34,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,golimumab,,,,0,0,0,193,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,infliximab,,,,0,0,0,746,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,methotrexate,,,,0,0,0,1000,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,quercetin,,,,0,0,0,154,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,ruxolitinib,,,,0,0,0,491,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,sarilumab,,,,0,0,0,83,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,sirolimus,,,,0,0,0,1000,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,temsirolimus,,,,0,0,0,1000,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,tocilizumab,,,,0,0,0,693,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,tofacitinib,,,,0,0,0,331,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only
+ClinicalTrials.gov,upadacitinib,,,,0,0,0,171,,,,False,no resultsSection/adverseEventsModule in dump; registration counts only

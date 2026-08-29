@@ -1,0 +1,34 @@
+cell,gene,snp,ea,oa,wald_beta,outcome,onek1k_cell,onek1k_snp,onek1k_beta,onek1k_p,allele_aligned,same_direction,exact_snp,note,onek1k_beta_aligned
+B_CELL_NAIVE,TSLP,rs6898145,T,G,-0.07636790273446879,ALLERG_ASTHMA,bin,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+B_CELL_NAIVE,GATA3,rs3781093,C,T,0.050158133086080546,ALLERG_ASTHMA,bin,rs3781093,0.0414106333296487,0.194774567703718,True,True,True,,0.0414106333296487
+B_CELL_NAIVE,TSLP,rs6898145,T,G,-0.10548945275595209,ALLERG_RHINITIS,bin,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+B_CELL_NAIVE,GATA3,rs3781093,C,T,0.04279095343598138,ALLERG_RHINITIS,bin,rs3781093,0.0414106333296487,0.194774567703718,True,True,True,,0.0414106333296487
+B_CELL_NAIVE,GATA3,rs3781093,C,T,-0.05554733296763277,L12_ATOPIC,bin,rs3781093,0.0414106333296487,0.194774567703718,True,False,True,,0.0414106333296487
+CD4_STIM,TSLP,rs2289277,G,C,0.1176032768055994,ALLERG_ASTHMA,cd4et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TFH,IL1R1,rs4851546,G,C,0.06195442341180563,ALLERG_ASTHMA,cd4et,rs4851546,0.0090444718659376,0.777122928987007,True,True,True,,0.0090444718659376
+TH1,IL13,rs78330488,C,T,0.12060279944952332,ALLERG_ASTHMA,cd4et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TH2,COL1A1,rs2214615,T,C,0.06150835579396958,ALLERG_ASTHMA,cd4et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+THSTAR,IL5,rs7734334,A,C,0.0838668221446272,ALLERG_ASTHMA,cd4et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+CD4_STIM,TSLP,rs2289277,G,C,0.11370329344407712,ALLERG_RHINITIS,cd4et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TFH,IL1R1,rs4851546,G,C,0.06038727845414076,ALLERG_RHINITIS,cd4et,rs4851546,0.0090444718659376,0.777122928987007,True,True,True,,0.0090444718659376
+THSTAR,IL5,rs7734334,A,C,0.04102541287176656,ALLERG_RHINITIS,cd4et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TFH,STAT6,rs3024949,TGGGGAGGCAA,T,-0.04774453910001221,L12_ATOPIC,cd4et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TH1,IL13,rs78330488,C,T,-0.0962797698146984,L12_ATOPIC,cd4et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+CD4_NAIVE,IL5,rs13165038,C,T,0.10730270388053573,ALLERG_ASTHMA,cd4nc,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TREG_NAIVE,IL4,rs370314650,G,GTTCC,-0.0833233331930977,ALLERG_ASTHMA,cd4nc,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TREG_NAIVE,TSLP,rs3806932,G,A,0.17897158360883864,ALLERG_ASTHMA,cd4nc,rs3806932,-0.0600715860415964,0.0598688819243703,True,False,True,,-0.0600715860415964
+CD4_NAIVE,IL5,rs13165038,C,T,0.050920871307740465,ALLERG_RHINITIS,cd4nc,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TREG_NAIVE,IL4,rs370314650,G,GTTCC,-0.0421207052037857,ALLERG_RHINITIS,cd4nc,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TREG_NAIVE,TSLP,rs3806932,G,A,0.17253735970923056,ALLERG_RHINITIS,cd4nc,rs3806932,-0.0600715860415964,0.0598688819243703,True,False,True,,-0.0600715860415964
+CD4_NAIVE,IL5,rs13165038,C,T,0.04014859985620453,L12_ATOPIC,cd4nc,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+TREG_NAIVE,IL4,rs370314650,G,GTTCC,-0.13105693360834575,L12_ATOPIC,cd4nc,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+CD8_NAIVE,TSLP,rs3806933,T,C,0.16863329596118132,ALLERG_ASTHMA,cd8et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+CD8_STIM,TSLP,rs2289277,G,C,0.11905368261893591,ALLERG_ASTHMA,cd8et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+CD8_NAIVE,TSLP,rs3806933,T,C,0.16215880764411397,ALLERG_RHINITIS,cd8et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+CD8_STIM,TSLP,rs2289277,G,C,0.11510560061005351,ALLERG_RHINITIS,cd8et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+CD8_NAIVE,STAT6,rs3024949,TGGGGAGGCAA,T,-0.04583603877425677,L12_ATOPIC,cd8et,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+MONOCYTES,IL1R1,rs549445698,A,ATAT,-0.058383049946987536,ALLERG_ASTHMA,monoc,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+MONOCYTES,IL1R1,rs549445698,A,ATAT,-0.04259303946398494,ALLERG_RHINITIS,monoc,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+NK,IL5,rs368020909,C,CAGG,0.11147788586455883,ALLERG_ASTHMA,nk,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+NK,IL5,rs368020909,C,CAGG,0.051744120341847714,ALLERG_RHINITIS,nk,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,
+NK,IL5,rs368020909,C,CAGG,0.04253550378624693,L12_ATOPIC,nk,,,,,,False,SNP absent in OneK1K full table; gene not a significant eQTL,

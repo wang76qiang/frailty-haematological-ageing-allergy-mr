@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated results, please cite the manuscript and this deposit."
+title: "Frailty-associated haematological ageing, not epigenetic age, shares causal architecture with allergic susceptibility -- reproducibility package"
+authors:
+  - family-names: Wang
+    given-names: Qiang
+    affiliation: "Chinese PLA Center for Disease Control and Prevention, Beijing, China"
+year: 2026
+version: v1.0.0
+doi: 10.5281/zenodo.22152040
+license: MIT
+repository-code: "https://github.com/wang76qiang/frailty-haematological-ageing-allergy-mr"
+keywords:
+  - ageing
+  - frailty
+  - epigenetic clocks
+  - allergic disease
+  - Mendelian randomization
+  - colocalization
+  - pharmacovigilance
+  - reproducibility

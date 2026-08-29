@@ -1,0 +1,3 @@
+model,knot_hat,loglik,ci_lower,ci_upper,boot_median,boot_mean,n_boot_ok,n_boot_fail,hinge_beta,hinge_p,n,n_events
+weighted,-1.75,-115234585.98341203,-1.95,2.0,-1.35,-1.063,200,0,1.7338326964095223,8.158718109317754e-05,7021,1092
+unweighted,-1.75,-2951.318085388518,,,,,0,0,,,7021,1092

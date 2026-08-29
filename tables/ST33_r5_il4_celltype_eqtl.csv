@@ -1,0 +1,31 @@
+gene,source,cell_or_tissue,is_focus,any_eqtl_for_gene,lead_snp_present,top_snp,top_p,top_beta,direction,note
+IL13,DICE,TH1,False,True,True,rs78330488,9.59607815202e-07,1.35032520591,up,
+IL4/IL13,DICE,TH2,True,False,False,,,,,
+IL4/IL13,DICE,TH17,False,False,False,,,,,
+IL4/IL13,DICE,TREG,False,False,False,,,,,vcf not on disk
+IL4/IL13,DICE,CD4_NAIVE,False,False,False,,,,,
+IL4/IL13,DICE,CD8_NAIVE,False,False,False,,,,,
+IL4/IL13,DICE,B_CELL_NAIVE,False,False,False,,,,,
+IL4/IL13,DICE,MONOCYTES,True,False,False,,,,,
+IL4/IL13,DICE,M2,False,False,False,,,,,
+IL4/IL13,DICE,NK,False,False,False,,,,,
+IL4/IL13,DICE,TFH,False,False,False,,,,,
+IL4/IL13,DICE,THSTAR,False,False,False,,,,,
+IL4/IL13,DICE,TREG_MEM,False,False,False,,,,,
+IL4,DICE,TREG_NAIVE,True,True,False,rs370314650,9.43773827539e-07,0.779455135928,up,
+IL4/IL13,DICE,CD4_STIM,False,False,False,,,,,
+IL4/IL13,DICE,CD8_STIM,False,False,False,,,,,
+IL4/IL13,OneK1K,cd4nc,False,False,False,,,,,absent in top-eSNP table; full eqtl table verified empty
+IL4/IL13,OneK1K,cd4et,False,False,False,,,,,absent in top-eSNP table; full eqtl table verified empty
+IL4/IL13,OneK1K,cd8et,False,False,False,,,,,absent in top-eSNP table; full eqtl table verified empty
+IL4/IL13,OneK1K,monoc,False,False,False,,,,,absent in top-eSNP table; full eqtl table verified empty
+IL4/IL13,OneK1K,nk,False,False,False,,,,,absent in top-eSNP table; full eqtl table verified empty
+IL4/IL13,OneK1K,bin,False,False,False,,,,,absent in top-eSNP table; full eqtl table verified empty
+IL4,GTEx,Adipose_Subcutaneous,False,False,False,,,,,
+IL13,GTEx,Adipose_Subcutaneous,False,True,False,chr5_133249836_C_T_b38,0.00072946,-0.181795,down,
+IL4,GTEx,Adipose_Visceral_Omentum,False,False,False,,,,,
+IL13,GTEx,Adipose_Visceral_Omentum,False,True,False,chr5_133312780_G_A_b38,0.00230274,0.554313,up,
+IL4,GTEx,Adrenal_Gland,False,False,False,,,,,
+IL13,GTEx,Adrenal_Gland,False,False,False,,,,,
+IL4,GTEx,Artery_Aorta,False,True,False,chr5_132721182_A_C_b38,3.22056e-05,0.287292,up,
+IL13,GTEx,Artery_Aorta,False,True,False,chr5_132488235_T_C_b38,0.000239396,0.245077,up,
