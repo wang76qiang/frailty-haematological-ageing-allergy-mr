@@ -1,0 +1,4 @@
+clock,n,pearson_r,spearman_rho,p
+horvath_age,656,0.918,0.915,1.8562612709738036e-265
+hannum_age,656,0.946,0.94,2.37e-322
+pheno_age,656,0.852,0.847,5.102183396591418e-186
