@@ -1,0 +1,34 @@
+cell,onek1k_cell,gene,dice_snp,dice_ea,wald_beta,exact_snp_present,n_gene_eqtl_records,onek1k_lead_snp,onek1k_lead_p,onek1k_lead_rho,gene_level_same_direction,note
+B_CELL_NAIVE,bin,TSLP,rs6898145,T,-0.0763679027344687,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+B_CELL_NAIVE,bin,TSLP,rs6898145,T,-0.105489452755952,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+B_CELL_NAIVE,bin,GATA3,rs3781093,C,0.0501581330860805,True,5514,rs11255648,0.0006179141959396,-0.1090651756645,,exact SNP present
+B_CELL_NAIVE,bin,GATA3,rs3781093,C,0.0427909534359813,True,5514,rs11255648,0.0006179141959396,-0.1090651756645,,exact SNP present
+B_CELL_NAIVE,bin,GATA3,rs3781093,C,-0.0555473329676327,True,5514,rs11255648,0.0006179141959396,-0.1090651756645,,exact SNP present
+CD4_NAIVE,cd4nc,IL5,rs13165038,C,0.1073027038805357,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+CD4_NAIVE,cd4nc,IL5,rs13165038,C,0.0509208713077404,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+CD4_NAIVE,cd4nc,IL5,rs13165038,C,0.0401485998562045,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+CD4_STIM,cd4et,TSLP,rs2289277,G,0.1176032768055994,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+CD4_STIM,cd4et,TSLP,rs2289277,G,0.1137032934440771,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+CD8_NAIVE,cd8et,TSLP,rs3806933,T,0.1686332959611813,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+CD8_NAIVE,cd8et,TSLP,rs3806933,T,0.1621588076441139,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+CD8_NAIVE,cd8et,STAT6,rs3024949,TGGGGAGGCAA,-0.0458360387742567,False,2244,rs111566142,0.0052915130432809,-0.0889288537306751,,"gene present, exact SNP absent"
+CD8_STIM,cd8et,TSLP,rs2289277,G,0.1190536826189359,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+CD8_STIM,cd8et,TSLP,rs2289277,G,0.1151056006100535,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+MONOCYTES,monoc,IL1R1,rs549445698,A,-0.0583830499469875,False,4157,rs62151004,0.0031810375480559,0.0946666737609232,0.0,"gene present, exact SNP absent"
+MONOCYTES,monoc,IL1R1,rs549445698,A,-0.0425930394639849,False,4157,rs62151004,0.0031810375480559,0.0946666737609232,0.0,"gene present, exact SNP absent"
+NK,nk,IL5,rs368020909,C,0.1114778858645588,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+NK,nk,IL5,rs368020909,C,0.0517441203418477,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+NK,nk,IL5,rs368020909,C,0.0425355037862469,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+TFH,cd4et,STAT6,rs3024949,TGGGGAGGCAA,-0.0477445391000122,False,2244,rs10747763,0.0003426391357988,-0.114037898244386,,"gene present, exact SNP absent"
+TFH,cd4et,IL1R1,rs4851546,G,0.0619544234118056,True,4157,rs11680437,0.0023064706732075,-0.0971476741361739,,exact SNP present
+TFH,cd4et,IL1R1,rs4851546,G,0.0603872784541407,True,4157,rs11680437,0.0023064706732075,-0.0971476741361739,,exact SNP present
+TH1,cd4et,IL13,rs78330488,C,0.1206027994495233,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+TH1,cd4et,IL13,rs78330488,C,-0.0962797698146984,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+TH2,cd4et,COL1A1,rs2214615,T,0.0615083557939695,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+THSTAR,cd4et,IL5,rs7734334,A,0.0838668221446272,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+THSTAR,cd4et,IL5,rs7734334,A,0.0410254128717665,False,0,,,,,no cis-eQTL record for gene in OneK1K cell type
+TREG_NAIVE,cd4nc,IL4,rs370314650,G,-0.0833233331930977,False,3354,rs56132027,0.0243577529171238,0.071844948091905,1.0,"gene present, exact SNP absent"
+TREG_NAIVE,cd4nc,IL4,rs370314650,G,-0.0421207052037857,False,3354,rs56132027,0.0243577529171238,0.071844948091905,1.0,"gene present, exact SNP absent"
+TREG_NAIVE,cd4nc,IL4,rs370314650,G,-0.1310569336083457,False,3354,rs56132027,0.0243577529171238,0.071844948091905,1.0,"gene present, exact SNP absent"
+TREG_NAIVE,cd4nc,TSLP,rs3806932,G,0.1789715836088386,True,3415,rs247534,0.0068570482177934,-0.0862278806396051,0.0,exact SNP present
+TREG_NAIVE,cd4nc,TSLP,rs3806932,G,0.1725373597092305,True,3415,rs247534,0.0068570482177934,-0.0862278806396051,0.0,exact SNP present
