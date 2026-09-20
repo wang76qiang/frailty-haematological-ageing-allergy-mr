@@ -1,0 +1,48 @@
+target,ensembl,disease,efo,n_evidence,score,datasource,study,cohort,tail,odds_ratio,p_value,method,study_cases
+IL18,ENSG00000150782,asthma,MONDO_0004979,0,,,,,,,,,
+IL18,ENSG00000150782,atopic dermatitis,MONDO_0004980,0,,,,,,,,,
+IL18,ENSG00000150782,allergic rhinitis,MONDO_0011786,0,,,,,,,,,
+TNFSF14,ENSG00000125735,asthma,MONDO_0004979,0,,,,,,,,,
+TNFSF14,ENSG00000125735,atopic dermatitis,MONDO_0004980,0,,,,,,,,,
+TNFSF14,ENSG00000125735,allergic rhinitis,MONDO_0011786,0,,,,,,,,,
+IL4,ENSG00000113520,asthma,MONDO_0004979,0,,,,,,,,,
+IL4,ENSG00000113520,atopic dermatitis,MONDO_0004980,0,,,,,,,,,
+IL4,ENSG00000113520,allergic rhinitis,MONDO_0011786,0,,,,,,,,,
+IL13,ENSG00000169194,asthma,MONDO_0004979,0,,,,,,,,,
+IL13,ENSG00000169194,atopic dermatitis,MONDO_0004980,0,,,,,,,,,
+IL13,ENSG00000169194,allergic rhinitis,MONDO_0011786,0,,,,,,,,,
+IL5,ENSG00000113525,asthma,MONDO_0004979,0,,,,,,,,,
+IL5,ENSG00000113525,atopic dermatitis,MONDO_0004980,0,,,,,,,,,
+IL5,ENSG00000113525,allergic rhinitis,MONDO_0011786,0,,,,,,,,,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.8374511998938867,gene_burden,,UK Biobank 450k,,0.674,1.47e-15,Burden test carried out with pLOFs and deleterious missense variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.8252951590479218,gene_burden,,UK Biobank 470k,,0.6929000020027161,2.1349999999999998e-15,Burden test carried out with PTVs with a MAF smaller than 5%.,63896.0
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.8191285220527578,gene_burden,,UK Biobank 450k,,0.676,2.58e-15,Burden test carried out with pLOF variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.782041040684083,gene_burden,,UK Biobank 470k,,0.6363999843597412,8.056e-15,Burden test carried out with PTVs with a MAF smaller than 5%.,38346.0
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.6766184604208185,gene_burden,,UK Biobank 450k,,0.725,2.0499999999999998e-13,Burden test carried out with pLOFs and deleterious missense variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.6685033188632682,gene_burden,,UK Biobank 450k,,0.539,2.63e-13,Burden test carried out with pLOFs and deleterious missense variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.6612103076537519,gene_burden,,UK Biobank 450k,,0.727,3.29e-13,Burden test carried out with pLOF variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.6531788428123247,gene_burden,,UK Biobank 450k,,0.542,4.21e-13,Burden test carried out with pLOF variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.6167057717275563,gene_burden,,UK Biobank 450k,,0.707,1.29e-12,Burden test carried out with pLOFs and deleterious missense variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.6029150330378805,gene_burden,,UK Biobank 450k,,0.709,1.97e-12,Burden test carried out with pLOF variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5502288063628464,gene_burden,,UK Biobank 450k,,0.689,9.93e-12,Burden test carried out with pLOFs and deleterious missense variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5487224995525914,gene_burden,,UK Biobank 450k,,0.706,1.04e-11,Burden test carried out with pLOFs and deleterious missense variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5463086482997364,gene_burden,,UK Biobank 450k,,0.694,1.12e-11,Burden test carried out with pLOFs and deleterious missense variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5457321361497646,gene_burden,,UK Biobank 450k,,0.689,1.1399999999999999e-11,Burden test carried out with pLOF variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5414542485769872,gene_burden,,UK Biobank 470k,,0.7125999927520752,1.3e-11,Burden test carried out with PTVs with a MAF smaller than 5%.,48317.0
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5409569551595612,gene_burden,,UK Biobank 450k,,0.695,1.32e-11,Burden test carried out with pLOF variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5388085665508464,gene_burden,,UK Biobank 450k,,0.707,1.4099999999999998e-11,Burden test carried out with pLOF variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5332962646639312,gene_burden,,UK Biobank 450k,,0.696,1.6699999999999998e-11,Burden test carried out with pLOFs and deleterious missense variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5324491886809615,gene_burden,,UK Biobank 470k,,0.7397000193595886,1.714e-11,Burden test carried out with PTVs with a MAF smaller than 5%.,60383.0
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5275860192692721,gene_burden,,UK Biobank 450k,,0.696,1.9899999999999997e-11,Burden test carried out with pLOF variants with a MAF smaller than 1%.,
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.5105051718172411,gene_burden,,UK Biobank 470k,,0.7127000093460083,3.3619999999999996e-11,Burden test carried out with PTVs with a MAF smaller than 5%.,48613.0
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.48726619647098846,gene_burden,,UK Biobank 470k,,0.7444000244140625,6.861999999999999e-11,Burden test carried out with PTVs with a MAF smaller than 5%.,59566.0
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.4081849150890206,gene_burden,,UK Biobank 450k,,,7.777999999999999e-10,Burden test carried out with rare pLOF variants.,53242.0
+IL33,ENSG00000137033,asthma,MONDO_0004979,24,0.28438327217811177,gene_burden,,UK Biobank 450k,,,3.48e-08,Burden test carried out with pLOF or missense variants.,53242.0
+IL33,ENSG00000137033,atopic dermatitis,MONDO_0004980,1,0.4592060481321133,gene_burden,,UK Biobank 470k,,0.7784000039100647,1.6240000000000003e-10,Burden test carried out with PTVs with a MAF smaller than 5%.,96419.0
+IL33,ENSG00000137033,allergic rhinitis,MONDO_0011786,4,0.6902249673628745,gene_burden,,UK Biobank 470k,,0.7508000135421753,1.35e-13,Burden test carried out with PTVs with a MAF smaller than 5%.,101477.0
+IL33,ENSG00000137033,allergic rhinitis,MONDO_0011786,4,0.4224602007266057,gene_burden,,UK Biobank 470k,,0.7957000136375427,5.018e-10,Burden test carried out with PTVs with a MAF smaller than 5%.,96365.0
+IL33,ENSG00000137033,allergic rhinitis,MONDO_0011786,4,0.25,gene_burden,,UK Biobank 450k,,,1.225e-07,Burden test carried out with rare pLOF variants.,37902.0
+IL33,ENSG00000137033,allergic rhinitis,MONDO_0011786,4,0.25,gene_burden,,UK Biobank 450k,,,1.225e-07,Burden test carried out with rare pLOF variants.,37902.0
+TSLP,ENSG00000145777,asthma,MONDO_0004979,0,,,,,,,,,
+TSLP,ENSG00000145777,atopic dermatitis,MONDO_0004980,0,,,,,,,,,
+TSLP,ENSG00000145777,allergic rhinitis,MONDO_0011786,0,,,,,,,,,
