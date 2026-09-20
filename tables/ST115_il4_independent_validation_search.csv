@@ -1,0 +1,8 @@
+resource,study,dataset,cell_type,n,il4_cis_snps,status
+eQTL Catalogue,Nathan_2022 (ref 27),QTD000687,CD4+ Treg,195,0,IL4 not a detectable cis-eGene (below inclusion threshold)
+eQTL Catalogue,Nathan_2022,QTD000682,CD4+ RORC+ Treg,62,0,IL4 not a detectable cis-eGene
+eQTL Catalogue,Cytoimmgen,QTD000747,nTreg unstimulated,93,0,IL4 not a detectable cis-eGene
+eQTL Catalogue,Cytoimmgen,QTD000703,nTreg stimulated 40h,90,0,IL4 not a detectable cis-eGene
+eQTL Catalogue,Perez_2022,QTD000600,CD4+ T,165,0,IL4 not a detectable cis-eGene
+eQTL Catalogue,"Schmiedel_2018 (DICE, reprocessed)",QTD000469,Treg naive,89,0,IL4 not recovered by eQTL Catalogue reprocessing of DICE
+OneK1K,Yazar_2022 (ref 46),ST114,CD4 naive / CD8 effector,982,2,IL4 cis-eQTL present but non-significant for outcomes and direction-discordant in CD4 naive (Additional file 114)
