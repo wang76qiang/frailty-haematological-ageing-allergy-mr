@@ -1,0 +1,9 @@
+comparison_type,quantity,our_traits,our_estimate,our_se,published_estimate,published_se,published_source,published_method,note,abs_delta
+same_GWAS,h2 Frailty index,Frailty,0.110847776549244,0.0053374491595831,0.11,0.005,Atkins et al. 2021 Aging Cell (ref 22),official LDSR,identical input GWAS; delta = 0.001,0.0008
+same_GWAS,h2 IEAA,IEAA,0.1639275075443605,0.0258920396975556,0.17,0.02,McCartney et al. 2021 Genome Biol (ref 21),official LDSC,identical input GWAS; delta = 0.006,0.0061
+same_GWAS,"rg(GrimAge, PhenoAge)",GrimAge x PhenoAge,0.6722135331411303,0.0992302570411018,0.66,,McCartney et al. 2021 Genome Biol (ref 21),official LDSC,identical input GWAS; delta = 0.012,0.0122
+same_GWAS,"rg(GrimAge, IEAA)",GrimAge x IEAA,0.2427332565922247,0.0918306758053013,0.28,,McCartney et al. 2021 Genome Biol (ref 21),official LDSC,identical input GWAS; delta = 0.037,0.0373
+different_cohort,"rg(asthma, hay fever/rhinitis)",ALLERG_ASTHMA x ALLERG_RHINITIS,0.9049262550657244,0.04094659992567,0.665,0.0457,Guo et al. 2020 Front Genet (UKB GeneATLAS),official LDSC,"FinnGen (doctor-diagnosed) vs UKB self-report; same order and direction, higher magnitude consistent with more homogeneous phenotyping",0.2399
+different_cohort,"rg(asthma, allergic diseases)",ALLERG_ASTHMA x ALLERG_RHINITIS,0.9049262550657244,0.04094659992567,0.7455,,"Zhu et al. 2018 Nat Genet (UKB, ref 24)",official LDSC,Zhu allergic-disease composite vs our rhinitis endpoint,0.1594
+different_cohort,"rg(asthma, eczema/AD)",ALLERG_ASTHMA x L12_ATOPIC,0.6296471872445731,0.0506259201990657,0.4519,0.0577,Guo et al. 2020 Front Genet (UKB GeneATLAS),official LDSC,concordant direction; Zhu 2018 GABRIEL x EAGLE replication rg = 0.46,0.1777
+different_cohort,"rg(hay fever/rhinitis, eczema/AD)",ALLERG_RHINITIS x L12_ATOPIC,0.7184663005212137,0.0609942317066528,0.3297,0.0714,Guo et al. 2020 Front Genet (UKB GeneATLAS),official LDSC,concordant direction; larger in FinnGen,0.3888
