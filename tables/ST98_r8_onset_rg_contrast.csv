@@ -1,0 +1,2 @@
+contrast,rg_adult,se_adult,rg_child,se_child,z,p_conservative,note
+Frailty rg: adult vs childhood onset,0.4866291429022408,0.0368888193649557,0.208815662033676,0.0302189781087421,5.825870071068855,5.681580716328051e-09,independence assumption; shared Frailty trait makes this conservative
