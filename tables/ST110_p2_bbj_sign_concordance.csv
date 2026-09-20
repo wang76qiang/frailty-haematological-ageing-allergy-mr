@@ -1,0 +1,4 @@
+outcome,n_snp,concordant,concordance,binomial_p
+asthma,45,27,0.6,0.23269319190831084
+allergic rhinitis,45,36,0.8,6.57466324582856e-05
+atopic dermatitis,45,20,0.444,0.5514843298025198
