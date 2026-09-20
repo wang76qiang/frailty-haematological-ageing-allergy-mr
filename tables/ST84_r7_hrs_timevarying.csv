@@ -1,0 +1,2 @@
+model,n_intervals,events,HR,lower,upper,p
+time_varying_mortality,267563,17376,109.0666228691886,99.34572682407924,119.7387004390671,0.0
