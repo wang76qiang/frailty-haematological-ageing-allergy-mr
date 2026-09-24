@@ -3,8 +3,8 @@
 **Reproducibility package** for the manuscript submitted to *Genome Medicine*:
 
 > Dimension-resolved Mendelian randomization implicates a functional frailty
-> dimension and a rhinitis-anchored blood-cell composite rather than epigenetic
-> clocks in allergic disease
+> dimension and a rhinitis-anchored blood-cell composite in allergic disease
+> without a consistent epigenetic-clock signal
 
 Author: Qiang Wang, Chinese PLA Center for Disease Control and Prevention, Beijing, China.
 
