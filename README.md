@@ -1,55 +1,49 @@
-# Frailty-associated haematological ageing, not epigenetic age, shares causal architecture with allergic susceptibility
+# Frailty and haematological type-2 genetic architecture in allergic disease
 
-**Reproducibility package** for the manuscript submitted to *Nature Aging*.
+**Reproducibility package** for the manuscript submitted to *Genome Medicine*:
+
+> Dimension-resolved Mendelian randomization implicates a functional frailty
+> dimension and a rhinitis-anchored blood-cell composite rather than epigenetic
+> clocks in allergic disease
 
 Author: Qiang Wang, Chinese PLA Center for Disease Control and Prevention, Beijing, China.
 
 ## Study summary
 
-This study adjudicates which dimension of biological ageing causally shapes allergic
-susceptibility, using a pre-registered decision tree over five orthogonal genetic
-instruments of ageing (four epigenetic clocks and a frailty index) tested against
-FinnGen GWAS for asthma, allergic rhinitis and atopic dermatitis by Mendelian
-randomization (MR), with population validation in 14,878 NHANES participants,
-cell-type-resolved MR, methylome convergence, plasma proteome MR with colocalization,
-and cross-database pharmacovigilance. The evidence adjudicates a frailty-specific
-causal dimension (path C): a functional, haematologically visible ageing axis, not
-epigenetic or chronological age, shares causal architecture with allergic disease.
+We compared five ageing instruments (four epigenetic clocks and a frailty index)
+plus a composite blood-cell-trait index against FinnGen R12 asthma, allergic
+rhinitis and atopic dermatitis by Mendelian randomization under an a priori (by
+file provenance, unregistered) adjudication tree, with independent replication,
+MHC-free LD score regression, multivariable MR, NHANES and HRS validation,
+cell-type and cis-pQTL MR, colocalization and pharmacovigilance. The epigenetic
+clocks show no consistent, concordant signal; a functional (frailty) dimension
+and, most replicably for allergic rhinitis, an eosinophil-weighted blood-cell
+composite are implicated. The association is not HLA-driven and has not been
+shown to be causal.
 
 ## Contents
 
 | Path | Description |
 |------|-------------|
-| `scripts/` | R5 analysis scripts (32 Python + 5 shell), including the five main-figure renderers `fig1_path_c.py`–`fig5_translation.py` and `nature_style.py` |
-| `tables/` | All 56 derived result tables (ST01–ST56) as machine-readable CSV plus `supplementary_data_index.csv` |
+| `scripts/` | Analysis scripts, including the R5 core (orthogonal ageing MR, reverse MR, LDSC, colocalization, NHANES, proteome MR, pharmacovigilance) and the editorial-revision scripts `r16_01`-`r16_04` |
+| `tables/` | Derived result tables ST01-ST117 (ST116b companion) and ST124-ST136 (ST135b companion) as machine-readable CSV/TSV, plus `supplementary_data_index.csv` |
 | `README.md` | This file |
-| `CITATION.cff` | Citation metadata for this deposit |
 | `LICENSE` | MIT license |
-| `requirements.txt` | Python dependencies |
 
-## Analysis layers
+## Key editorial-revision scripts
 
-- **MR of ageing instruments**: `01_orthogonal_aging_mr.py`, `02_bidirectional_mr.py`,
-  `03_heterogeneity_governance.py`, `03_heterogeneity_presso_raps.py`, `04_winners_curse.py`,
-  `04_astle_sensitivity.py`
-- **5q31/IL4–IL13 locus**: `06_il4_locus_coloc.py`, `06_il4_locus_adjudication.py`
-- **NHANES population validation**: `07_nhanes_survey_weighted.py`, `08_age_interaction_pooled.py`
-- **Plasma proteome MR**: `09_pqtl_drug_target_mr.py`
-- **Epigenome-wide convergence**: `10_ewas_convergence.py`
-- **Cell-type-resolved MR**: `12_celltype_mr_matrix.py`, `12_onek1k_replication_*.py`
-- **Pharmacovigilance**: `13_pharmacovigilance_three_source.py`, `13_three_source_vigilance.py`
-- **Figure rendering**: `fig1_path_c.py`–`fig5_translation.py`, `nature_style.py`
+- `r16_01_eosinophil_free_mr.py` - genetic-level eosinophil decomposition (ST133)
+- `r16_01b_harmonisation_diagnostic.py` - palindromic-handling diagnostic
+- `r16_02_rg_contrast.py` - formal frailty-versus-clock rg contrasts (ST134)
+- `r16_03_steiger_directionality.py` - per-SNP Steiger directionality audit (ST135/ST135b)
+- `r16_04_eosinophil_free_panukbb.py` - independent-cohort replication of the decomposition (ST136)
 
 ## Reproducing
 
-Requires Python 3.13 with the packages in `requirements.txt`. Data inputs are publicly
-available GWAS/eQTL summary statistics and NHANES public-use files (accessions listed in
-the manuscript's Data availability section); derived tables in `tables/` are version-frozen
-with this submission.
-
-## Citation
-
-Please cite the manuscript and this Zenodo deposit; see `CITATION.cff`.
+Requires Python 3.13. Data inputs are publicly available GWAS/eQTL summary
+statistics and NHANES public-use files (accessions listed in the manuscript's
+Data availability section); derived tables in `tables/` are version-frozen with
+this deposit.
 
 ## License
 
