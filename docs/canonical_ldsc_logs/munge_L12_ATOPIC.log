@@ -1,0 +1,54 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./munge_sumstats.py \
+--sumstats D:\˥���о�\v3_pipeline\data\real\finngen_full\finngen_R12_L12_ATOPIC.gz \
+--N 464119.0 \
+--out D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\L12_ATOPIC \
+--merge-alleles D:\˥���о�\v3_pipeline\data\r6\ldsc_ref\w_hm3.snplist.gz \
+--snp rsids \
+--a1 alt \
+--a2 ref \
+--p pval \
+--frq af_alt \
+--signed-sumstats beta,0 
+
+Interpreting column names as follows:
+ref:	Allele 2, interpreted as non-ref allele for signed sumstat.
+alt:	Allele 1, interpreted as ref allele for signed sumstat.
+rsids:	Variant ID (e.g., rs number)
+pval:	p-Value
+beta:	Directional summary statistic as specified by --signed-sumstats.
+af_alt:	Allele frequency
+
+Reading list of SNPs for allele merge from D:\˥���о�\v3_pipeline\data\r6\ldsc_ref\w_hm3.snplist.gz
+Read 1217311 SNPs for allele merge.
+Reading sumstats from D:\˥���о�\v3_pipeline\data\real\finngen_full\finngen_R12_L12_ATOPIC.gz into memory 5000000 SNPs at a time.
+..... done
+Read 21326632 SNPs from --sumstats file.
+Removed 20123252 SNPs not in --merge-alleles.
+Removed 0 SNPs with missing values.
+Removed 0 SNPs with INFO <= 0.9.
+Removed 33032 SNPs with MAF <= 0.01.
+Removed 0 SNPs with out-of-bounds p-values.
+Removed 363 variants that were not SNPs or were strand-ambiguous.
+1169985 SNPs remain.
+Removed 453 SNPs with duplicated rs numbers (1169532 SNPs remain).
+Using N = 464119.0
+Median value of SIGNED_SUMSTATS was 5.915735e-05, which seems sensible.
+Removed 225 SNPs whose alleles did not match --merge-alleles (1169307 SNPs remain).
+Writing summary statistics for 1217311 SNPs (1169307 with nonmissing beta) to D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\L12_ATOPIC.sumstats.gz.
+
+Metadata:
+Mean chi^2 = 1.373
+Lambda GC = 1.246
+Max chi^2 = 179.822
+1244 Genome-wide significant SNPs (some may have been removed by filtering).
+
+Conversion finished at Fri Sep 25 10:40:40 2026
+Total time elapsed: 2.0m:15.629999999999995s

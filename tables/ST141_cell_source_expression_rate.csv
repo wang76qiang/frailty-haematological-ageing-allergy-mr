@@ -1,0 +1,133 @@
+gene,cell_type,n_cells,rate_per_1e4
+IL4,B cell,114495,2.9551576745169608
+IL4,"CD4-positive, alpha-beta T cell",97130,3.0455174275063124
+IL4,"CD4-positive, alpha-beta thymocyte",4685,4.097405822699664
+IL4,"CD8-positive, alpha-beta T cell",76277,3.592952506442057
+IL4,"CD8-positive, alpha-beta thymocyte",731,66.21665899237034
+IL4,T cell,6290,0.8226198121212356
+IL4,"activated CD4-positive, alpha-beta T cell",572,2.6052835455014294
+IL4,"activated CD8-positive, alpha-beta T cell",1147,0.13744004178177271
+IL4,basophil,1669,1.851486531508992
+IL4,classical monocyte,18200,0.2637686724247896
+IL4,erythrocyte,14611,1.436722377099139
+IL4,erythroid progenitor cell,971,13.919773318717894
+IL4,gamma-delta T cell,1977,0.07308421222318832
+IL4,granulocyte,769,6.08756923839647
+IL4,hematopoietic precursor cell,2140,0.26780900418863995
+IL4,hematopoietic stem cell,858,18.971826501503763
+IL4,innate lymphoid cell,971,87.00894458139172
+IL4,intermediate monocyte,5478,0.14611786170728916
+IL4,macrophage,69072,0.8783093674172948
+IL4,mast cell,6222,6.935732272497646
+IL4,mature NK T cell,5394,2.6236554962504846
+IL4,monocyte,25753,0.8466130953032079
+IL4,mononuclear phagocyte,5336,0.15254874675205435
+IL4,myeloid dendritic cell,571,17.29132270751622
+IL4,myeloid leukocyte,1002,0.12900590994502875
+IL4,"naive thymus-derived CD4-positive, alpha-beta T cell",9827,4.872236518681197
+IL4,"naive thymus-derived CD8-positive, alpha-beta T cell",1056,0.2764196396487006
+IL4,natural killer cell,14231,5.676544535406991
+IL4,neutrophil,69539,0.04810985792710168
+IL4,non-classical monocyte,1284,1.367834493360776
+IL4,plasma cell,27348,3.8874355397995792
+IL4,regulatory T cell,2649,3.994330937536845
+IL4,tissue-resident macrophage,1355,0.12327894191701444
+IL5,B cell,114495,9.980129855579987
+IL5,"CD4-positive, alpha-beta T cell",97130,9.929988526891998
+IL5,"CD4-positive, alpha-beta thymocyte",4685,4.009203349021197
+IL5,"CD8-positive, alpha-beta T cell",76277,16.959666899344374
+IL5,"CD8-positive, alpha-beta thymocyte",731,147.76558235935084
+IL5,T cell,6290,7.1335943284045555
+IL5,"activated CD4-positive, alpha-beta T cell",572,62.88484113483714
+IL5,"activated CD8-positive, alpha-beta T cell",1147,2.9716765790653557
+IL5,basophil,1669,6.362748394094339
+IL5,classical monocyte,18200,10.157184919732623
+IL5,erythrocyte,14611,0.46656448328477196
+IL5,erythroid progenitor cell,971,14.082396539687617
+IL5,gamma-delta T cell,1977,10.4614829496621
+IL5,granulocyte,769,3.9100135378227043
+IL5,hematopoietic precursor cell,2140,4.049272143332236
+IL5,hematopoietic stem cell,858,112.32773420188713
+IL5,innate lymphoid cell,971,101.76277933512701
+IL5,intermediate monocyte,5478,7.2411697372256585
+IL5,macrophage,69072,13.248892978283273
+IL5,mast cell,6222,12.777283938494614
+IL5,mature NK T cell,5394,18.866244319231846
+IL5,monocyte,25753,11.342925630565375
+IL5,mononuclear phagocyte,5336,5.472900543587747
+IL5,myeloid dendritic cell,571,381.79804798491256
+IL5,myeloid leukocyte,1002,8.020481715439502
+IL5,"naive thymus-derived CD4-positive, alpha-beta T cell",9827,5.072719707918269
+IL5,"naive thymus-derived CD8-positive, alpha-beta T cell",1056,2.8141517530500244
+IL5,natural killer cell,14231,30.3694340494604
+IL5,neutrophil,69539,9.341211071248743
+IL5,non-classical monocyte,1284,18.931719036564107
+IL5,plasma cell,27348,37.0481220354979
+IL5,regulatory T cell,2649,7.570580549533313
+IL5,tissue-resident macrophage,1355,3.6176765864374785
+IL18,B cell,114495,0.06051588397769949
+IL18,"CD4-positive, alpha-beta T cell",97130,0.005565274752388597
+IL18,"CD4-positive, alpha-beta thymocyte",4685,0.06949285804970076
+IL18,"CD8-positive, alpha-beta T cell",76277,0.08734366658707818
+IL18,"CD8-positive, alpha-beta thymocyte",731,43.939428575160754
+IL18,T cell,6290,0.0007917418788462325
+IL18,"activated CD4-positive, alpha-beta T cell",572,0.0
+IL18,"activated CD8-positive, alpha-beta T cell",1147,0.0
+IL18,basophil,1669,0.0
+IL18,classical monocyte,18200,0.01000707873865283
+IL18,erythrocyte,14611,0.002468595149654878
+IL18,erythroid progenitor cell,971,0.001935990725830027
+IL18,gamma-delta T cell,1977,0.0020881203492339523
+IL18,granulocyte,769,0.0
+IL18,hematopoietic precursor cell,2140,0.004284944067018239
+IL18,hematopoietic stem cell,858,0.0
+IL18,innate lymphoid cell,971,0.033154684839854585
+IL18,intermediate monocyte,5478,0.007845254319854451
+IL18,macrophage,69072,0.03160902233987386
+IL18,mast cell,6222,0.9916264094338233
+IL18,mature NK T cell,5394,0.003419780365289995
+IL18,monocyte,25753,0.024559102431949347
+IL18,mononuclear phagocyte,5336,0.002285374483176844
+IL18,myeloid dendritic cell,571,0.0
+IL18,myeloid leukocyte,1002,0.0
+IL18,"naive thymus-derived CD4-positive, alpha-beta T cell",9827,0.002887617951974293
+IL18,"naive thymus-derived CD8-positive, alpha-beta T cell",1056,0.013321428416804849
+IL18,natural killer cell,14231,0.004224798240139169
+IL18,neutrophil,69539,0.0037698023002579674
+IL18,non-classical monocyte,1284,0.008896484509663584
+IL18,plasma cell,27348,0.10270649452115213
+IL18,regulatory T cell,2649,0.0015038896602171858
+IL18,tissue-resident macrophage,1355,0.004482870615164162
+TNFSF14,B cell,114495,61.54957568660608
+TNFSF14,"CD4-positive, alpha-beta T cell",97130,60.69411726523467
+TNFSF14,"CD4-positive, alpha-beta thymocyte",4685,62.68077609267496
+TNFSF14,"CD8-positive, alpha-beta T cell",76277,71.9269219210065
+TNFSF14,"CD8-positive, alpha-beta thymocyte",731,558.9445828720592
+TNFSF14,T cell,6290,74.49578512252087
+TNFSF14,"activated CD4-positive, alpha-beta T cell",572,315.69637629435744
+TNFSF14,"activated CD8-positive, alpha-beta T cell",1147,21.685809835729433
+TNFSF14,basophil,1669,128.12893014641898
+TNFSF14,classical monocyte,18200,72.83629856020839
+TNFSF14,erythrocyte,14611,3.379506759877528
+TNFSF14,erythroid progenitor cell,971,82.30283773648611
+TNFSF14,gamma-delta T cell,1977,16.88662926425497
+TNFSF14,granulocyte,769,547.3539616791282
+TNFSF14,hematopoietic precursor cell,2140,27.273668986571092
+TNFSF14,hematopoietic stem cell,858,616.7954581635595
+TNFSF14,innate lymphoid cell,971,4383.469295170081
+TNFSF14,intermediate monocyte,5478,17.211016992575694
+TNFSF14,macrophage,69072,190.51999136755686
+TNFSF14,mast cell,6222,734.3574971478628
+TNFSF14,mature NK T cell,5394,94.40919258848784
+TNFSF14,monocyte,25753,124.46654503301785
+TNFSF14,mononuclear phagocyte,5336,169.90787998264486
+TNFSF14,myeloid dendritic cell,571,730.7008058613624
+TNFSF14,myeloid leukocyte,1002,19.004413476473378
+TNFSF14,"naive thymus-derived CD4-positive, alpha-beta T cell",9827,67.08761536136848
+TNFSF14,"naive thymus-derived CD8-positive, alpha-beta T cell",1056,3.3703213894516266
+TNFSF14,natural killer cell,14231,97.51362438021219
+TNFSF14,neutrophil,69539,8.345713992387763
+TNFSF14,non-classical monocyte,1284,416.2687343282865
+TNFSF14,plasma cell,27348,136.52353146179652
+TNFSF14,regulatory T cell,2649,45.07458089602949
+TNFSF14,tissue-resident macrophage,1355,212.57548313577695

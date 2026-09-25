@@ -1,0 +1,54 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./munge_sumstats.py \
+--sumstats D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\raw\GCST90014288_buildGRCh37.tsv.gz \
+--out D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge \
+--merge-alleles D:\˥���о�\v3_pipeline\data\r6\ldsc_ref\w_hm3.snplist.gz \
+--snp variant_id \
+--a1 A1 \
+--a2 A2 \
+--p p_value \
+--frq Freq1 \
+--signed-sumstats Effect,0 
+
+Interpreting column names as follows:
+variant_id:	Variant ID (e.g., rs number)
+A1:	Allele 1, interpreted as ref allele for signed sumstat.
+A2:	Allele 2, interpreted as non-ref allele for signed sumstat.
+Freq1:	Allele frequency
+Effect:	Directional summary statistic as specified by --signed-sumstats.
+p_value:	p-Value
+N:	Sample size
+
+Reading list of SNPs for allele merge from D:\˥���о�\v3_pipeline\data\r6\ldsc_ref\w_hm3.snplist.gz
+Read 1217311 SNPs for allele merge.
+Reading sumstats from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\raw\GCST90014288_buildGRCh37.tsv.gz into memory 5000000 SNPs at a time.
+.. done
+Read 7568149 SNPs from --sumstats file.
+Removed 6384732 SNPs not in --merge-alleles.
+Removed 448 SNPs with missing values.
+Removed 0 SNPs with INFO <= 0.9.
+Removed 1497 SNPs with MAF <= 0.01.
+Removed 0 SNPs with out-of-bounds p-values.
+Removed 75 variants that were not SNPs or were strand-ambiguous.
+1181397 SNPs remain.
+Removed 0 SNPs with duplicated rs numbers (1181397 SNPs remain).
+Removed 15288 SNPs with N < 21231.333333333332 (1166109 SNPs remain).
+Median value of SIGNED_SUMSTATS was -0.0001, which seems sensible.
+Removed 9 SNPs whose alleles did not match --merge-alleles (1166100 SNPs remain).
+Writing summary statistics for 1217311 SNPs (1166100 with nonmissing beta) to D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz.
+
+Metadata:
+Mean chi^2 = 1.077
+Lambda GC = 1.075
+Max chi^2 = 45.359
+33 Genome-wide significant SNPs (some may have been removed by filtering).
+
+Conversion finished at Fri Sep 25 10:29:45 2026
+Total time elapsed: 57.93s

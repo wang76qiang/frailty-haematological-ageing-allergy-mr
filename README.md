@@ -26,7 +26,7 @@ shown to be causal.
 | Path | Description |
 |------|-------------|
 | `scripts/` | Analysis scripts, including the R5 core (orthogonal ageing MR, reverse MR, LDSC, colocalization, NHANES, proteome MR, pharmacovigilance) and the editorial-revision scripts `r16_01`-`r16_04` |
-| `tables/` | Derived result tables ST01-ST117 (ST116b companion) and ST124-ST136 (ST135b companion) as machine-readable CSV/TSV, plus `supplementary_data_index.csv` |
+| `tables/` | Derived result tables ST01-ST117 (ST116b companion) and 124-152 (ST135b companion) as machine-readable CSV/TSV, plus `supplementary_data_index.csv` |
 | `README.md` | This file |
 | `LICENSE` | MIT license |
 

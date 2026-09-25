@@ -1,0 +1,5 @@
+rr_per_decade,ci_lo,ci_hi,p,n_donors,total_gene_counts,gene,cell_type,q_translational_family
+0.9120418941302656,0.10901287579164609,7.6304786073028925,0.9322998499040822,6,4.0,IL18,"naive thymus-derived CD8-positive, alpha-beta T cell",1.0
+1.1474626426485302,0.9221782165308677,1.4277831471959044,0.2173924612262229,17,67.0,IL18,classical monocyte,0.8695698449048916
+,,,,3,297383.0,TNFSF14,mononuclear phagocyte,1.0
+,,,,4,94839.0,TNFSF14,tissue-resident macrophage,1.0

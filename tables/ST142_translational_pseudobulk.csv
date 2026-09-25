@@ -1,0 +1,31 @@
+cell_type,gene,donor,gene_counts,total_counts,age,n_cells
+classical monocyte,IL18,TSP1,6.0,1800192.0,59.0,23709
+classical monocyte,IL18,TSP10,5.0,7269456.0,33.0,12459
+classical monocyte,IL18,TSP11,0.0,31607.0,42.0,2552
+classical monocyte,IL18,TSP14,15.0,14011192.0,59.0,132053
+classical monocyte,IL18,TSP15,0.0,5640.0,46.0,561
+classical monocyte,IL18,TSP17,0.0,117140.0,60.0,1846
+classical monocyte,IL18,TSP19,1.0,377702.0,36.0,5410
+classical monocyte,IL18,TSP2,9.0,9024728.0,61.0,71621
+classical monocyte,IL18,TSP21,15.0,16182866.0,45.0,95511
+classical monocyte,IL18,TSP25,2.0,1385438.0,60.0,98467
+classical monocyte,IL18,TSP27,0.0,1866320.0,56.0,57162
+classical monocyte,IL18,TSP30,0.0,7008.0,26.0,365
+classical monocyte,IL18,TSP5,0.0,18488.0,40.0,430
+classical monocyte,IL18,TSP6,0.0,275258.0,67.0,7414
+classical monocyte,IL18,TSP7,14.0,12331789.0,69.0,51945
+classical monocyte,IL18,TSP8,0.0,885923.0,56.0,7390
+classical monocyte,IL18,TSP9,0.0,1361859.0,37.0,2724
+"naive thymus-derived CD8-positive, alpha-beta T cell",IL18,TSP14,0.0,531605.0,59.0,132053
+"naive thymus-derived CD8-positive, alpha-beta T cell",IL18,TSP2,3.0,1679080.0,61.0,71621
+"naive thymus-derived CD8-positive, alpha-beta T cell",IL18,TSP21,0.0,143257.0,45.0,95511
+"naive thymus-derived CD8-positive, alpha-beta T cell",IL18,TSP25,0.0,30024.0,60.0,98467
+"naive thymus-derived CD8-positive, alpha-beta T cell",IL18,TSP27,1.0,364911.0,56.0,57162
+"naive thymus-derived CD8-positive, alpha-beta T cell",IL18,TSP7,0.0,253804.0,69.0,51945
+mononuclear phagocyte,TNFSF14,TSP20,194874.0,104086.0,56.0,9546
+mononuclear phagocyte,TNFSF14,TSP25,62174.0,11102166.0,60.0,98467
+mononuclear phagocyte,TNFSF14,TSP27,40335.0,6296350.0,56.0,57162
+tissue-resident macrophage,TNFSF14,TSP14,22533.0,2377627.0,59.0,132053
+tissue-resident macrophage,TNFSF14,TSP20,62449.0,9103.0,56.0,9546
+tissue-resident macrophage,TNFSF14,TSP25,1077.0,216123.0,60.0,98467
+tissue-resident macrophage,TNFSF14,TSP27,8780.0,1858574.0,56.0,57162

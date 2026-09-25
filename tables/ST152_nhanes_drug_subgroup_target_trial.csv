@@ -1,0 +1,17 @@
+comparison,outcome,n_exposed_a,n_exposed_b,OR_iptw,OR_iptw_lower,OR_iptw_upper,E_value_point,E_value_ci_limit,note
+IL-6/IL-1 inhibitors vs TNF inhibitors,any_allergy,0,14,,,,,,insufficient sample size
+IL-6/IL-1 inhibitors vs TNF inhibitors,cancer_history,0,15,,,,,,insufficient sample size
+IL-6/IL-1 inhibitors vs TNF inhibitors,gallstones,0,15,,,,,,insufficient sample size
+IL-6/IL-1 inhibitors vs TNF inhibitors,liver_condition,0,15,,,,,,insufficient sample size
+JAK inhibitors vs TNF inhibitors,any_allergy,2,14,,,,,,insufficient sample size
+JAK inhibitors vs TNF inhibitors,cancer_history,2,15,,,,,,insufficient sample size
+JAK inhibitors vs TNF inhibitors,gallstones,2,15,,,,,,insufficient sample size
+JAK inhibitors vs TNF inhibitors,liver_condition,2,15,,,,,,insufficient sample size
+mTOR inhibitors vs non-immune drugs,any_allergy,3,1806,0.7248499399759903,0.0373419014289633,14.070184307103265,2.103259443246525,27.63115411492865,
+mTOR inhibitors vs non-immune drugs,cancer_history,3,1921,2.441407368243772,0.2040565381114448,29.20989443847022,4.317323829462449,9.272707715224923,
+mTOR inhibitors vs non-immune drugs,gallstones,3,1921,4.172314773402857,0.3714118469312544,46.87036967772831,7.810431840644219,4.827082198167197,
+mTOR inhibitors vs non-immune drugs,liver_condition,3,1921,3.6973026973026974,0.1891832509730922,72.25823197966983,6.855267950148129,10.045570236050064,
+Methotrexate vs non-immune drugs (exploratory),any_allergy,25,1794,1.072425418868661,0.3944665535127566,2.915573624161345,1.3511203419780748,4.507759353244038,
+Methotrexate vs non-immune drugs (exploratory),cancer_history,27,1908,0.4242982717050552,0.1004342741260793,1.792505844627291,4.14507959739671,2.9843830859553178,
+Methotrexate vs non-immune drugs (exploratory),gallstones,27,1908,0.3567536975266316,0.0849969808426145,1.4973849592915545,5.051177843909905,2.3603894534982857,
+Methotrexate vs non-immune drugs (exploratory),liver_condition,27,1908,0.4672600127145582,0.0282185960493354,7.737164496075315,3.702200802444144,14.957036374665202,

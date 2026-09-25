@@ -1,0 +1,227 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--out D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\out\canonical_rg_mhc \
+--rg D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz,D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\Hannum.sumstats.gz,D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\IEAA.sumstats.gz,D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\PhenoAge.sumstats.gz,D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\Frailty.sumstats.gz,D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\ALLERG_ASTHMA.sumstats.gz,D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\ALLERG_RHINITIS.sumstats.gz,D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\L12_ATOPIC.sumstats.gz \
+--ref-ld-chr D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\ldscores\LDscore\LDscore. \
+--w-ld-chr D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\ldscores\LDscore\LDscore. 
+
+Beginning analysis at Fri Sep 25 10:55:54 2026
+Reading summary statistics from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz ...
+Read summary statistics for 1166100 SNPs.
+Reading reference panel LD Score from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\ldscores\LDscore\LDscore.[1-22] ... (ldscore_fromlist)
+Read reference panel LD Scores for 1190321 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\ldscores\LDscore\LDscore.[1-22] ... (ldscore_fromlist)
+Read regression weight LD Scores for 1190321 SNPs.
+After merging with reference panel LD, 1155116 SNPs remain.
+After merging with regression SNP LD, 1155116 SNPs remain.
+Computing rg for phenotype 2/8
+Reading summary statistics from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\Hannum.sumstats.gz ...
+Read summary statistics for 1217311 SNPs.
+After merging with summary statistics, 1155116 SNPs remain.
+1154947 SNPs with valid alleles.
+
+Heritability of phenotype 1
+---------------------------
+Total Observed scale h2: 0.0929 (0.0158)
+Lambda GC: 1.0741
+Mean Chi^2: 1.077
+Intercept: 1.0204 (0.0061)
+Ratio: 0.2656 (0.0798)
+
+Heritability of phenotype 2/8
+-----------------------------
+Total Observed scale h2: 0.0976 (0.0213)
+Lambda GC: 1.0496
+Mean Chi^2: 1.0821
+Intercept: 1.021 (0.0076)
+Ratio: 0.2562 (0.0924)
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.0375 (0.012)
+Mean z1*z2: 0.4294
+Intercept: 0.4045 (0.0051)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.3934 (0.0935)
+Z-score: 4.2092
+P: 2.563e-05
+
+Computing rg for phenotype 3/8
+Reading summary statistics from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\IEAA.sumstats.gz ...
+Read summary statistics for 1217311 SNPs.
+After merging with summary statistics, 1155116 SNPs remain.
+1155068 SNPs with valid alleles.
+
+Heritability of phenotype 3/8
+-----------------------------
+Total Observed scale h2: 0.174 (0.0231)
+Lambda GC: 1.0649
+Mean Chi^2: 1.0978
+Intercept: 0.994 (0.0076)
+Ratio < 0 (usually indicates GC correction).
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.0417 (0.012)
+Mean z1*z2: 0.1525
+Intercept: 0.1271 (0.0049)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.3285 (0.09)
+Z-score: 3.6503
+P: 0.0003
+
+Computing rg for phenotype 4/8
+Reading summary statistics from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\PhenoAge.sumstats.gz ...
+Read summary statistics for 1217311 SNPs.
+After merging with summary statistics, 1155116 SNPs remain.
+1155061 SNPs with valid alleles.
+
+Heritability of phenotype 4/8
+-----------------------------
+Total Observed scale h2: 0.0935 (0.0174)
+Lambda GC: 1.0588
+Mean Chi^2: 1.0756
+Intercept: 1.0209 (0.0074)
+Ratio: 0.2765 (0.0976)
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.0627 (0.0128)
+Mean z1*z2: 0.4194
+Intercept: 0.382 (0.005)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.6738 (0.1013)
+Z-score: 6.6501
+P: 2.9292e-11
+
+Computing rg for phenotype 5/8
+Reading summary statistics from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\Frailty.sumstats.gz ...
+Read summary statistics for 1217311 SNPs.
+After merging with summary statistics, 1155116 SNPs remain.
+1148842 SNPs with valid alleles.
+
+Heritability of phenotype 5/8
+-----------------------------
+Total Observed scale h2: 0.1 (0.0051)
+Lambda GC: 1.3272
+Mean Chi^2: 1.4044
+Intercept: 1.0559 (0.009)
+Ratio: 0.1382 (0.0223)
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.0283 (0.0054)
+Mean z1*z2: 0.0439
+Intercept: 0.0042 (0.0052)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.2949 (0.0584)
+Z-score: 5.0496
+P: 4.4267e-07
+
+Computing rg for phenotype 6/8
+Reading summary statistics from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\ALLERG_ASTHMA.sumstats.gz ...
+Read summary statistics for 1217311 SNPs.
+After merging with summary statistics, 1155116 SNPs remain.
+1139801 SNPs with valid alleles.
+
+Heritability of phenotype 6/8
+-----------------------------
+Total Observed scale h2: 0.037 (0.0043)
+Lambda GC: 1.2431
+Mean Chi^2: 1.3199
+Intercept: 1.1062 (0.0142)
+Ratio: 0.332 (0.0445)
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.0141 (0.0046)
+Mean z1*z2: 0.0272
+Intercept: -0.0005 (0.0053)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.2414 (0.0795)
+Z-score: 3.0387
+P: 0.0024
+
+Computing rg for phenotype 7/8
+Reading summary statistics from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\ALLERG_RHINITIS.sumstats.gz ...
+Read summary statistics for 1217311 SNPs.
+After merging with summary statistics, 1155116 SNPs remain.
+1139825 SNPs with valid alleles.
+
+Heritability of phenotype 7/8
+-----------------------------
+Total Observed scale h2: 0.013 (0.0016)
+Lambda GC: 1.1747
+Mean Chi^2: 1.207
+Intercept: 1.0752 (0.0105)
+Ratio: 0.3633 (0.0507)
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.0012 (0.0031)
+Mean z1*z2: 0.0078
+Intercept: 0.0049 (0.0051)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.0355 (0.0895)
+Z-score: 0.3969
+P: 0.6914
+
+Computing rg for phenotype 8/8
+Reading summary statistics from D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\L12_ATOPIC.sumstats.gz ...
+Read summary statistics for 1217311 SNPs.
+After merging with summary statistics, 1155116 SNPs remain.
+1139829 SNPs with valid alleles.
+
+Heritability of phenotype 8/8
+-----------------------------
+Total Observed scale h2: 0.0247 (0.0041)
+Lambda GC: 1.2464
+Mean Chi^2: 1.3751
+Intercept: 1.1412 (0.0186)
+Ratio: 0.3764 (0.0496)
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.0035 (0.0037)
+Mean z1*z2: 0.0117
+Intercept: 0.0053 (0.006)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.0726 (0.0775)
+Z-score: 0.9372
+P: 0.3487
+
+
+Summary of Genetic Correlation Results
+                                                                   p1                                                                            p2     rg     se      z          p  h2_obs  h2_obs_se  h2_int  h2_int_se  gcov_int  gcov_int_se
+D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz          D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\Hannum.sumstats.gz 0.3934 0.0935 4.2092 2.5630e-05  0.0976     0.0213  1.0210     0.0076    0.4045       0.0051
+D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz            D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\IEAA.sumstats.gz 0.3285 0.0900 3.6503 2.6196e-04  0.1740     0.0231  0.9940     0.0076    0.1271       0.0049
+D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz        D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\PhenoAge.sumstats.gz 0.6738 0.1013 6.6501 2.9292e-11  0.0935     0.0174  1.0209     0.0074    0.3820       0.0050
+D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz         D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\Frailty.sumstats.gz 0.2949 0.0584 5.0496 4.4267e-07  0.1000     0.0051  1.0559     0.0090    0.0042       0.0052
+D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz   D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\ALLERG_ASTHMA.sumstats.gz 0.2414 0.0795 3.0387 2.3764e-03  0.0370     0.0043  1.1062     0.0142   -0.0005       0.0053
+D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\ALLERG_RHINITIS.sumstats.gz 0.0355 0.0895 0.3969 6.9141e-01  0.0130     0.0016  1.0752     0.0105    0.0049       0.0051
+D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\GrimAge.sumstats.gz      D:\˥���о�\v3_pipeline\data\r6\canonical_ldsc\munged\L12_ATOPIC.sumstats.gz 0.0726 0.0775 0.9372 3.4868e-01  0.0247     0.0041  1.1412     0.0186    0.0053       0.0060
+
+Analysis finished at Fri Sep 25 10:56:42 2026
+Total time elapsed: 48.06s
