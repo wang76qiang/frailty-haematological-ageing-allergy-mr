@@ -1,4 +1,4 @@
-# Reporting Summary (eBioMedicine), draft for author confirmation (v3.2, R35)
+# Reporting Summary (eBioMedicine), draft for author confirmation (v3.2, R38)
 
 ## Statistics
 
@@ -24,4 +24,4 @@ Analysis code is available at https://github.com/wang76qiang/frailty-haematologi
 The study used publicly available, de-identified data only; no new individual-level data were collected and no additional institutional review board approval was required (see Ethics declaration in the manuscript).
 
 ---
-*Author action: confirm or edit each field in the eBioMedicine submission system; this draft mirrors manuscript content as of v3.2/R35 (2026-10-09).*
+*Author action: confirm or edit each field in the eBioMedicine submission system; this draft mirrors manuscript content as of v3.2/R38 (2026-10-11).*
