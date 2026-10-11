@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this software or the associated results, please cite the manuscript and this deposit."
-title: "Frailty-associated haematological ageing, not epigenetic age, shares causal architecture with allergic susceptibility -- reproducibility package"
+title: "One law, two dimensions of ageing: a drifting haematological type-2 set-point couples functional ageing to allergic disease, while molecular clocks remain largely decoupled from the primary allergic endpoints -- reproducibility package"
 authors:
   - family-names: Wang
     given-names: Qiang
     affiliation: "Chinese PLA Center for Disease Control and Prevention, Beijing, China"
 year: 2026
-version: v1.0.0
-doi: 10.5281/zenodo.22152040
+version: v3.2-eBioMedicine-R36
+doi: 10.5281/zenodo.22152039
 license: MIT
 repository-code: "https://github.com/wang76qiang/frailty-haematological-ageing-allergy-mr"
 keywords:
@@ -16,6 +16,8 @@ keywords:
   - epigenetic clocks
   - allergic disease
   - Mendelian randomization
-  - colocalization
-  - pharmacovigilance
+  - set-point drift
+  - IL-18
+  - inflammasome
+  - drug repurposing
   - reproducibility
