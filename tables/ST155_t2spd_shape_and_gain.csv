@@ -1,0 +1,16 @@
+cycle,block,model,knot,loglik,aic,n,boot_min,boot_p25,boot_median,boot_p75,boot_max,boot_boundary_frac,int_beta,int_se,int_lo,int_hi,int_p
+J,drift_shape,linear,,-7624.9895683812865,15255.979136762573,4903,,,,,,,,,,,
+J,drift_shape,quadratic,,-7620.165068213602,15248.330136427205,4903,,,,,,,,,,,
+J,drift_shape,hinge_best_k60,60.0,-7617.912656714725,15243.82531342945,4903,,,,,,,,,,,
+J,drift_shape_bootstrap,knot_argmin_distribution,,,,300,35.0,55.0,60.0,60.0,70.0,0.10666666666666667,,,,,
+D,drift_shape,linear,,-6651.887282413714,13309.774564827429,4457,,,,,,,,,,,
+D,drift_shape,quadratic,,-6648.193113195062,13304.386226390125,4457,,,,,,,,,,,
+D,drift_shape,hinge_best_k55,55.0,-6647.962846351918,13303.925692703837,4457,,,,,,,,,,,
+D,drift_shape_bootstrap,knot_argmin_distribution,,,,300,35.0,50.0,55.0,60.0,70.0,0.21333333333333335,,,,,
+pooled,drift_shape,linear,,-14284.568900890525,28575.13780178105,9360,,,,,,,,,,,
+pooled,drift_shape,quadratic,,-14276.548933920065,28561.09786784013,9360,,,,,,,,,,,
+pooled,drift_shape,hinge_best_k55,55.0,-14274.412317204107,28556.824634408214,9360,,,,,,,,,,,
+pooled,drift_shape_bootstrap,knot_argmin_distribution,,,,300,35.0,55.0,55.0,60.0,70.0,0.043333333333333335,,,,,
+J,gain_invariance,allergy ~ idx_z*a + female + bmi,,,,4827,,,,,,,0.0021597242294714657,0.030161456687318566,-0.056956730877672924,0.06127617933661585,0.9429159145937799
+D,gain_invariance,log_ige ~ idx_z*a + female + bmi,,,,4379,,,,,,,-0.028962850794286253,0.019715753043205553,-0.06760572675896914,0.00968002517039663,0.14182715470282192
+D,gain_invariance,high_ige ~ idx_z*a + female + bmi,,,,4385,,,,,,,-0.06167675050636789,0.026819829253090684,-0.11424361584242562,-0.009109885170310146,0.021466936159418925

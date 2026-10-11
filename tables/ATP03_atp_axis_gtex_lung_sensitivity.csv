@@ -1,0 +1,16 @@
+gene,outcome,n_harmonized,verdict,lead_variant,lead_tss_distance,lead_eqtl_beta,lead_eqtl_se,lead_outcome_beta,lead_wald_logor,lead_wald_se,lead_wald_p,lead_or_per_expr_sd,pp_h3,pp_h4
+NLRP3,ALLERG_ASTHMA,2,uninformative (<5 harmonized SNPs),,,,,,,,,,,
+NLRP3,ALLERG_RHINITIS,2,uninformative (<5 harmonized SNPs),,,,,,,,,,,
+NLRP3,L12_ATOPIC,2,uninformative (<5 harmonized SNPs),,,,,,,,,,,
+GSDMD,ALLERG_ASTHMA,130,null,chr8_143543623_C_T_b38,-9584.0,-0.2838,0.0322,-0.00567,0.02,0.0536,0.7095353192646157,1.0202,0.0046,0.0102
+GSDMD,ALLERG_RHINITIS,130,nominal lead Wald only,chr8_143543623_C_T_b38,-9584.0,-0.2838,0.0322,0.02831,-0.0997,0.0492,0.042736292716357836,0.9051,0.0087,0.0795
+GSDMD,L12_ATOPIC,130,null,chr8_143543623_C_T_b38,-9584.0,-0.2838,0.0322,0.00522,-0.0184,0.0358,0.6074488353973473,0.9818,0.0034,0.008
+P2RX7,ALLERG_ASTHMA,0,no significant Lung cis-eQTL (GTEx v8 EUR),,,,,,,,,,,
+P2RX7,ALLERG_RHINITIS,0,no significant Lung cis-eQTL (GTEx v8 EUR),,,,,,,,,,,
+P2RX7,L12_ATOPIC,0,no significant Lung cis-eQTL (GTEx v8 EUR),,,,,,,,,,,
+CASP1,ALLERG_ASTHMA,0,no significant Lung cis-eQTL (GTEx v8 EUR),,,,,,,,,,,
+CASP1,ALLERG_RHINITIS,0,no significant Lung cis-eQTL (GTEx v8 EUR),,,,,,,,,,,
+CASP1,L12_ATOPIC,0,no significant Lung cis-eQTL (GTEx v8 EUR),,,,,,,,,,,
+IL1B,ALLERG_ASTHMA,0,no significant Lung cis-eQTL (GTEx v8 EUR),,,,,,,,,,,
+IL1B,ALLERG_RHINITIS,0,no significant Lung cis-eQTL (GTEx v8 EUR),,,,,,,,,,,
+IL1B,L12_ATOPIC,0,no significant Lung cis-eQTL (GTEx v8 EUR),,,,,,,,,,,

@@ -1,0 +1,3 @@
+model,interaction,se,z_alpha,z_power,contrast_years,mde_or_ratio,power,alpha,n,note
+weighted,I_z:age_c,0.0011244706852774,1.96,0.84,40,1.1342149263440644,0.8,0.05,14878,"Minimum detectable 40-year odds-ratio ratio at 80% power, two-sided alpha=0.05: exp((z_0.975+z_0.8)*SE*40), from the ST16 interaction standard error."
+unweighted,I_z:age_c,0.0008541895016727,1.96,0.84,40,1.1003950197318837,0.8,0.05,14878,"Minimum detectable 40-year odds-ratio ratio at 80% power, two-sided alpha=0.05: exp((z_0.975+z_0.8)*SE*40), from the ST16 interaction standard error."

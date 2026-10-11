@@ -1,0 +1,30 @@
+﻿gene,in_aging_atlas_human_500,aging_atlas_modules
+IL4,False,
+IL5,False,
+IL13,False,
+TSLP,False,
+IL33,False,
+IL18,False,
+TNFSF14,True,NF-κB related gene
+RORC,False,
+IL6,True,deregulated nutrient sensing
+TNF,True,altered intercellular communication
+GATA3,False,
+STAT6,False,
+IL1R1,True,NF-κB related gene
+IL1RL1,False,
+IL5RA,False,
+IL25,False,
+IL17RB,False,
+
+panel_size,17,
+overlap,4,TNFSF14; IL6; TNF; IL1R1
+aging_atlas_human_genes,500,
+universe_convention,N,fisher_OR,fisher_P_one_sided
+protein-coding ~20018,20018,12.1,7.066e-04
+HGNC protein-coding 19194,19194,11.589,8.267e-04
+whole-genome genes ~20000,20000,12.089,7.090e-04
+NF_kB_module_size_human,47,,
+NF_kB_module_overlap,2,TNFSF14; IL1R1,
+NF_kB_module_fisher,20018,59.13,7.175e-04
+IL18_in_aging_atlas,False,absent from all 12 modules,
