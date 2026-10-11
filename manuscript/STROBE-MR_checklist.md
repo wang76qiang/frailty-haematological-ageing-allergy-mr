@@ -1,6 +1,6 @@
 # STROBE-MR checklist
 
-**Manuscript:** One law, two dimensions of ageing: a drifting haematological type-2 set-point couples functional ageing to allergic disease, while molecular clocks remain largely decoupled from the primary allergic endpoints (v3.2, R38)
+**Manuscript:** A drifting blood-cell type-2 set-point links functional ageing to allergic disease (v3.2, R38)
 
 This checklist maps each reporting requirement to its location in the manuscript and to the supporting additional files (Supplementary Tables, ST; Supplementary Figures) and to the eight main composite figures of the current version. Figure/panel pointers follow the current scheme: Figure 1–8 (further detailed in `02_主图_figures/lancet/MAIN_FIGURES_blueprint.md`) and Supplementary Figures 1–16 (renumbered to first-citation order). The manuscript follows the STROBE-MR statement (Skrivankova et al., JAMA 2021).
 

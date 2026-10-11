@@ -1,4 +1,4 @@
-# One law, two dimensions of ageing: a drifting haematological type-2 set-point couples functional ageing to allergic disease, while molecular clocks remain largely decoupled from the primary allergic endpoints
+# A drifting blood-cell type-2 set-point links functional ageing to allergic disease
 
 **Authors:** Hongjuan Fang1,\*; Lijuan Bu2; Lili Wang2; Qiang Wang2,\*
 
@@ -6,21 +6,8 @@
 
 **Corresponding author:** Hongjuan Fang (tthfhj@163.com; ORCID: 0000-0001-8321-9902; No. 3 Anwai Beiyuan Road, Beijing 100012, China) and Qiang Wang (wang76qiang@163.com; ORCID: 0000-0003-4392-0889; 20 Dongda Street, Beijing 100071, China).
 
-**Article type:** Article. **Keywords:** ageing dimensions; frailty; epigenetic clocks; allergic disease; Mendelian randomization; set-point drift; IL-18; inflammasome; drug repurposing.
+**Article type:** Article. **Keywords:** ageing; frailty; epigenetic clocks; allergic disease; Mendelian randomization; set-point drift.
 
-
----
-
-## Research in context
-
-### Evidence before this study
-Allergic diseases (asthma, rhinitis and atopic dermatitis) affect more than a billion people and are conventionally framed as early-life immune programming. Yet allergy is common in older adults, and which *dimension* of ageing carries this susceptibility has never been formally adjudicated: molecular ageing is read by epigenetic clocks[1][2][3], functional ageing by deficit accumulation (frailty), and the two correlate only modestly. Genetic studies have treated ageing as a single quantity; allergic propensity has never been formalized as a quantitative process; and no candidate mediator has been triangulated across genetic, population, cellular and pharmacological layers. (This panel is a narrative synthesis of the cited literature rather than a systematic review; no formal database search with pre-specified terms was performed.)
-
-### Added value of this study
-Under a pre-specified adjudication scheme triangulating Mendelian randomization (MR), canonical genetic correlation, population and longitudinal cohorts, cell-type and single-cell analyses, drug-target genetics and pharmacovigilance (168 machine-readable additional files: Supplementary Tables 1-162 with companions), we show that a functional frailty dimension (reproducibly not the clocks) shares architecture with allergic disease, preferentially with adult-onset asthma (rg 0.487 vs 0.209 for childhood-onset, P = 5.7 × 10⁻⁹). We formalize allergic propensity as a regulated haematological type-2 set-point that drifts 0.074 SD per decade in cross-sectional data (two survey cycles; 0.070 after birth-cohort adjustment), mildly accelerates after midlife, keeps intact damping, and carries an age-invariant allergic-risk gain confirmed against objective IgE for the full index (the objective layer is eosinophil carried); a target-trial emulation bounds the association against unmeasured confounding (OR 1.86, E-value 2.66). An outcome-wide coupling map (85 tests) generalizes the dimension law with clean boundaries. IL18 is established as an assay-robust, barrier-resident translational node (same three cis instruments across platforms; the genetic evidence is anchored to atopic dermatitis) whose full ATP-inflammasome maturation machinery co-localizes in lung macrophages, and a triple-filter screen of geroprotective compounds quantifies the barrier-immune cost of anti-ageing pharmacology (only metoprolol and LY-294002 pass; LINCS single-resource, and LY-294002 is a tool compound).
-
-### Implications of all the available evidence
-Allergy of older adults is the cumulative read-out of a lifelong, measurably drifting set-point that belongs to the functional ageing dimension and is visible in a routine blood count. Prevention can target a druggable inflammasome-IL-18 node, and the coming generation of anti-ageing therapeutics should be screened for barrier-immune cost, favouring combination (senolytic plus anti-alarmin) strategies over single-agent repurposing.
 
 ---
 
@@ -35,6 +22,19 @@ Allergy of older adults is the cumulative read-out of a lifelong, measurably dri
 **Interpretation** Allergic susceptibility is a drifting functional-ageing set-point (cross-sectional, cohort-checked), not a clock-read molecular state, with a druggable inflammasome-IL18 node and a quantifiable barrier-immune cost for anti-ageing pharmacology; causality and functional validation remain to be shown.
 
 **Funding** This work was supported by grants from the Natural Science Foundation of Beijing Municipality (7232047 and 7242192) and the Beijing Municipal Administration of Hospitals Incubating Program (PX2023019).
+
+---
+
+## Research in context
+
+### Evidence before this study
+Allergic diseases (asthma, rhinitis and atopic dermatitis) affect more than a billion people and are conventionally framed as early-life immune programming. Yet allergy is common in older adults, and which *dimension* of ageing carries this susceptibility has never been formally adjudicated: molecular ageing is read by epigenetic clocks[1][2][3], functional ageing by deficit accumulation (frailty), and the two correlate only modestly. Genetic studies have treated ageing as a single quantity; allergic propensity has never been formalized as a quantitative process; and no candidate mediator has been triangulated across genetic, population, cellular and pharmacological layers. (This panel is a narrative synthesis of the cited literature rather than a systematic review; no formal database search with pre-specified terms was performed.)
+
+### Added value of this study
+Under a pre-specified adjudication scheme triangulating Mendelian randomization (MR), canonical genetic correlation, population and longitudinal cohorts, cell-type and single-cell analyses, drug-target genetics and pharmacovigilance (168 machine-readable additional files: Supplementary Tables 1-162 with companions), we show that a functional frailty dimension (reproducibly not the clocks) shares architecture with allergic disease, preferentially with adult-onset asthma (rg 0.487 vs 0.209 for childhood-onset, P = 5.7 × 10⁻⁹). We formalize allergic propensity as a regulated haematological type-2 set-point that drifts 0.074 SD per decade in cross-sectional data (two survey cycles; 0.070 after birth-cohort adjustment), mildly accelerates after midlife, keeps intact damping, and carries an age-invariant allergic-risk gain confirmed against objective IgE for the full index (the objective layer is eosinophil carried); a target-trial emulation bounds the association against unmeasured confounding (OR 1.86, E-value 2.66). An outcome-wide coupling map (85 tests) generalizes the dimension law with clean boundaries. IL18 is established as an assay-robust, barrier-resident translational node (same three cis instruments across platforms; the genetic evidence is anchored to atopic dermatitis) whose full ATP-inflammasome maturation machinery co-localizes in lung macrophages, and a triple-filter screen of geroprotective compounds quantifies the barrier-immune cost of anti-ageing pharmacology (only metoprolol and LY-294002 pass; LINCS single-resource, and LY-294002 is a tool compound).
+
+### Implications of all the available evidence
+Allergy of older adults is the cumulative read-out of a lifelong, measurably drifting set-point that belongs to the functional ageing dimension and is visible in a routine blood count. Prevention can target a druggable inflammasome-IL-18 node, and the coming generation of anti-ageing therapeutics should be screened for barrier-immune cost, favouring combination (senolytic plus anti-alarmin) strategies over single-agent repurposing.
 
 ---
 
@@ -142,13 +142,12 @@ Allergic susceptibility tracks the functional dimension of ageing: a lifelong, m
 ---
 
 ## Declarations
-- **Data availability**: this study used only publicly available or license-controlled summary statistics and de-identified survey data. Sources: FinnGen R12 (https://r12.finngen.fi); Pan-UK Biobank (https://pan.ukbb.broadinstitute.org); NHANES cycles D (2005-2006) and J (2017-2018) (https://wwwn.cdc.gov/nchs/nhanes); Health and Retirement Study (RAND) public-use files (https://hrs.isr.umich.edu); eQTLGen (https://www.eqtlgen.org); GTEx v8 (https://gtexportal.org); pQTL replication cohorts SCALLOP (GCST90012024), Ahola-Olli Luminex (GCST004441), HELIC (GCST90010141), AGES-Reykjavik (GCST90089017) and INTERVAL (GCST90243143); FDA FAERS (https://open.fda.gov); Canada Vigilance; Aging Atlas (https://ngdc.cncb.ac.cn/aging); LINCS L1000 (GSE70138). Derived result files: Supplementary Tables 1-162 (with companions). The six formerly unnumbered new tables now fill ST118-ST123 (ST118 ONSET01; ST119 COUP01; ST120 DRIFT01; ST121 DRIFT02; ST122 GER01; ST123 GER02), and the ATP-axis tables and the knowledge-base table are appended as ST157-ST162 (ST157 ATP01; ST158 ATP02; ST159 ATP02b; ST160 ATP02c; ST161 ATP03; ST162 KB01).
-- **Code availability**: analysis code is available at https://github.com/wang76qiang/frailty-haematological-ageing-allergy-mr and archived at Zenodo (https://doi.org/10.5281/zenodo.22152039). The pre-specified analysis plan is registered on the Open Science Framework (https://osf.io/f4v79; registrations qm2hy and f9d3w).
+- **Data and code sharing statement**: this study used only publicly available or license-controlled summary statistics and de-identified survey data. Sources: FinnGen R12 (https://r12.finngen.fi); Pan-UK Biobank (https://pan.ukbb.broadinstitute.org); NHANES cycles D (2005-2006) and J (2017-2018) (https://wwwn.cdc.gov/nchs/nhanes); Health and Retirement Study (RAND) public-use files (https://hrs.isr.umich.edu); eQTLGen (https://www.eqtlgen.org); GTEx v8 (https://gtexportal.org); pQTL replication cohorts SCALLOP (GCST90012024), Ahola-Olli Luminex (GCST004441), HELIC (GCST90010141), AGES-Reykjavik (GCST90089017) and INTERVAL (GCST90243143); FDA FAERS (https://open.fda.gov); Canada Vigilance; Aging Atlas (https://ngdc.cncb.ac.cn/aging); LINCS L1000 (GSE70138). Derived result files: Supplementary Tables 1-162 (with companions). The six formerly unnumbered new tables now fill ST118-ST123 (ST118 ONSET01; ST119 COUP01; ST120 DRIFT01; ST121 DRIFT02; ST122 GER01; ST123 GER02), and the ATP-axis tables and the knowledge-base table are appended as ST157-ST162 (ST157 ATP01; ST158 ATP02; ST159 ATP02b; ST160 ATP02c; ST161 ATP03; ST162 KB01). Analysis code is available at https://github.com/wang76qiang/frailty-haematological-ageing-allergy-mr and archived at Zenodo (https://doi.org/10.5281/zenodo.22152039). The pre-specified analysis plan is registered on the Open Science Framework (https://osf.io/f4v79; registrations qm2hy and f9d3w).
 - **Ethics**: the study used publicly available, de-identified data only; no new human-subjects data were collected and no additional institutional review board approval was required. HRS data were accessed as RAND public-use files under the HRS data-use terms.
-- **Author contributions**: Conceptualization, H.F. and Q.W.; methodology, H.F.; software, H.F.; validation, H.F. and L.W.; formal analysis, L.B.; investigation, L.B. and L.W.; data curation, L.B.; writing - original draft, H.F.; writing - review and editing, L.W. and Q.W.; visualization, L.B.; supervision, Q.W.; project administration, Q.W.
-- **Competing interests**: the authors declare no competing interests.
+- **Contributors**: Conceptualization, H.F. and Q.W.; methodology, H.F.; software, H.F.; validation, H.F. and L.W.; formal analysis, L.B.; investigation, L.B. and L.W.; data curation, L.B.; writing - original draft, H.F.; writing - review and editing, L.W. and Q.W.; visualization, L.B.; supervision, Q.W.; project administration, Q.W.
+- **Declaration of interests**: the authors declare no competing interests.
 - **Funding**: This work was supported by grants from the Natural Science Foundation of Beijing Municipality (7232047 and 7242192) and the Beijing Municipal Administration of Hospitals Incubating Program (PX2023019).
-- **AI assistance disclosure**: AI-assisted tools were used for language editing and code assistance only; all analyses, data interpretation and conclusions were verified by the authors, who take full responsibility for the content. No AI tool accessed HRS or any other non-public individual-level data.
+- **Use of AI-assisted technologies**: AI-assisted tools were used for language editing and code assistance only; all analyses, data interpretation and conclusions were verified by the authors, who take full responsibility for the content. No AI tool accessed HRS or any other non-public individual-level data.
 
 ## Figure legends
 

@@ -1,7 +1,7 @@
 # Cover letter: eBioMedicine
 
 **Manuscript type:** Article
-**Title:** One law, two dimensions of ageing: a drifting haematological type-2 set-point couples functional ageing to allergic disease, while molecular clocks remain largely decoupled from the primary allergic endpoints
+**Title:** A drifting blood-cell type-2 set-point links functional ageing to allergic disease
 
 Dear Editors,
 
