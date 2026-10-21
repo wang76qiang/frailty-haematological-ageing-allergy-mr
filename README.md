@@ -6,7 +6,7 @@ Reproducibility package for the **Clinical & Experimental Allergy** submission (
 
 The current submission archive is `CEA_RouteB8.6_submission_package.zip` in this repository. The Zenodo release is:
 
-- Version DOI: https://doi.org/10.5281/zenodo.23533491
+- Version DOI: https://doi.org/10.5281/zenodo.23533619
 - Concept DOI: https://doi.org/10.5281/zenodo.22152039
 
 The manuscript asks whether part of the genetic correlation between frailty and allergic disease is definitional, because the 49-item UK Biobank frailty index includes asthma (item 28) and hay fever/allergic rhinitis/eczema (item 33) as two of its 49 items.
