@@ -1,46 +1,40 @@
-# Frailty / haematological type-2 set-point and allergic disease: reproducibility package
+# Frailty and allergic disease share genetic architecture, partly through overlapping item content
 
-Reproducibility package for the manuscript submitted to **eBioMedicine** (v3.2, R35/R36):
+Reproducibility package for the **Clinical & Experimental Allergy** submission (Route B, v8.6; 21 October 2026).
 
-> **One law, two dimensions of ageing: a drifting haematological type-2 set-point
-> couples functional ageing to allergic disease, while molecular clocks remain
-> largely decoupled from the primary allergic endpoints**
+## Current version
 
-Author: Qiang Wang, Chinese PLA Center for Disease Control and Prevention, Beijing, China.
+The current submission archive is `CEA_RouteB8.6_submission_package.zip` in this repository. The Zenodo release is:
 
-## Study summary
-We compared five ageing instruments (four epigenetic clocks and a frailty index) plus a
-composite haematological type-2 index against FinnGen R12 asthma, allergic rhinitis and
-atopic dermatitis by Mendelian randomization under a pre-specified adjudication tree, with
-independent replication, MHC-free LD score regression (three implementations including the
-canonical Bulik-Sullivan tool), multivariable and reverse MR, an 85-test outcome-wide
-coupling map, NHANES and HRS validation, a formal set-point drift model, cell-type and
-cis-pQTL MR, colocalization, single-cell atlases, and pharmacological/drug-target layers.
-A functional (frailty) dimension, not the epigenetic clocks, carries the genetic overlap
-with allergic disease; the associated blood-cell axis behaves as an age-invariant type-2
-set-point whose level drifts with age; and IL18 is nominated as a platform-robust,
-barrier-resident translational node. The association is not shown to be causal.
+- Version DOI: https://doi.org/10.5281/zenodo.23533491
+- Concept DOI: https://doi.org/10.5281/zenodo.22152039
 
-## Contents
-- `tables/`: all derived result tables ST01–ST162 (with companions), `supplementary_data_index.csv`,
-  the machine-readable `supplementary_tables_csv.zip`, and the re-laid-out compendium
-  (`Supplementary_Tables_1-162.docx` / `.pdf`). The six formerly unnumbered supplementary
-  tables fill ST118–ST123 (ONSET01, COUP01, DRIFT01, DRIFT02, GER01, GER02); ATP-axis tables
-  and the knowledge-base table are ST157–ST162.
-- `manuscript/`: `manuscript_main.md` / `.docx` (v3.2), `main_tables.*`, cover letter,
-  Reporting Summary and STROBE-MR checklist.
-- `supplementary/`: `supplementary_information.md` / `.docx` and the supplementary figures
-  (including `Supplementary_Fig_16_participant_flow`).
-- `scripts/`: analysis scripts (R5 core plus the R9–R24 revision layers).
+The manuscript asks whether part of the genetic correlation between frailty and allergic disease is definitional, because the 49-item UK Biobank frailty index includes asthma (item 28) and hay fever/allergic rhinitis/eczema (item 33) as two of its 49 items.
 
-## Reproducing
-Requires Python 3.13+. Data inputs are publicly available GWAS/eQTL/pQTL summary statistics
-and NHANES public-use files (accessions listed in the manuscript's Data availability section);
-derived tables in `tables/` are version-frozen with this deposit.
+## Key reproducible results
 
-## Note on versions
-This repository previously carried an earlier ("dimension-resolved MR", Genome Medicine-oriented)
-package; that content is retained in the git history. The current `main` branch is the
-eBioMedicine v3.2 package. Zenodo concept DOI: 10.5281/zenodo.22152039.
+- FI item audit: 2/49 outcome items; 9/49 pain items.
+- FinnGen frailty–asthma rg: 0.467 (SE 0.039); rhinitis 0.361; atopic dermatitis 0.246.
+- European-ancestry TAGC replication: random-effects rg 0.378 (SE 0.048; P = 1.9 × 10−15); fixed-effects 0.362 (SE 0.046); intercept −0.003 (SE 0.006); N = 127,669.
+- Non-HLA MR: FinnGen asthma 3.85 (2.69–5.52); FinnGen rhinitis 2.67 (1.92–3.71); Pan-UKB asthma 2.38 (1.86–3.04).
+- NHANES blood-count index: OR 1.31 (1.21–1.41) per SD; equal-weight 1.31 (1.20–1.42); eosinophil-free 1.18 (1.08–1.28); eosinophil-only 1.24 (1.16–1.33).
+- Log-IgE component betas: full index 0.442; without eosinophils −0.127; eosinophils only 0.301.
 
-License: MIT (see `LICENSE`).
+## Package contents
+
+- `manuscript.md`, `manuscript.docx`, `manuscript.pdf`
+- `cover_letter.md`, `cover_letter.docx`
+- five main figures (`.png`, `.pdf`, `.tiff`) and a 300-dpi graphical abstract
+- `Table_1-3.md`, `Table_1-3.docx`
+- `Supplementary_information.md`, `Supplementary_information.docx`
+- current `STROBE-MR_checklist.docx`
+- `source_data/` for Figures 2f, 4 and 5a
+- `README_submission_manifest.md`
+
+## Historical files
+
+The `manuscript/`, `figures/`, `tables/` and `supplementary/` directories contain the earlier eBioMedicine-oriented reproducibility package (v3.x). They are retained for provenance. The v8.6 CEA package is the zip at the repository root and the Zenodo version linked above.
+
+## Analysis plan
+
+OSF: https://osf.io/f4v79
