@@ -1,15 +1,15 @@
 # Frailty and allergic disease share genetic architecture, partly through overlapping item content
 
-Reproducibility package for the **Clinical & Experimental Allergy** submission (Route B, v8.6; 21 October 2026).
+Reproducibility package for the **Clinical & Experimental Allergy** submission (Route B, v8.7; 21 October 2026).
 
 ## Current version
 
-The current submission archive is `CEA_RouteB8.6_submission_package.zip` in this repository. The Zenodo release is:
+The current submission archive is `CEA_RouteB8.7_submission_package.zip` in this repository. The Zenodo release is:
 
-- Version DOI: https://doi.org/10.5281/zenodo.23533619
+- Version DOI: https://doi.org/10.5281/zenodo.23533878
 - Concept DOI: https://doi.org/10.5281/zenodo.22152039
 
-The manuscript asks whether part of the genetic correlation between frailty and allergic disease is definitional, because the 49-item UK Biobank frailty index includes asthma (item 28) and hay fever/allergic rhinitis/eczema (item 33) as two of its 49 items.
+The v8.7 archive includes portable figure/table code (`code/make_figures.py`, `code/make_tables.py`), 23 derived input tables (`derived_tables/`), the manuscript, figures, tables, Supplementary Information, graphical abstract and current STROBE-MR checklist.
 
 ## Key reproducible results
 
@@ -28,12 +28,14 @@ The manuscript asks whether part of the genetic correlation between frailty and 
 - `Table_1-3.md`, `Table_1-3.docx`
 - `Supplementary_information.md`, `Supplementary_information.docx`
 - current `STROBE-MR_checklist.docx`
+- `code/` with portable figure/table scripts and requirements
+- `derived_tables/` with 23 numerical input tables
 - `source_data/` for Figures 2f, 4 and 5a
 - `README_submission_manifest.md`
 
 ## Historical files
 
-The `manuscript/`, `figures/`, `tables/` and `supplementary/` directories contain the earlier eBioMedicine-oriented reproducibility package (v3.x). They are retained for provenance. The v8.6 CEA package is the zip at the repository root and the Zenodo version linked above.
+The `manuscript/`, `figures/`, `tables/` and `supplementary/` directories contain the earlier eBioMedicine-oriented reproducibility package (v3.x). They are retained for provenance. The v8.7 CEA package is the zip at the repository root and the Zenodo version linked above.
 
 ## Analysis plan
 
